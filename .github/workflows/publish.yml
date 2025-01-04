@@ -1,4 +1,4 @@
-name: Resize & publish to GitHub Pages
+name: resize images & publish on 'covers' branch
 
 on:
   push:
