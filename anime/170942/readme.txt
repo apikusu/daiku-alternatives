@@ -1,0 +1,1 @@
+the cover art is for the cour 2 of the anime
