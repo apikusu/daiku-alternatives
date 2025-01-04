@@ -18,6 +18,6 @@ for d in os.listdir('./anime'):
             subprocess.run(['convert', input_path, '-resize', target_size, '-quality', quality, output_path])
             print(f'converted {input_path} to {output_path}')
 
-data = {id: f'{id}/medium.jpg' for id in os.listdir('./resized')}
+data = {id: f'../{id}/medium.jpg' for id in os.listdir('./resized')}
 with open('resized/posters.json', 'w') as f:
     f.write(json.dumps(data, sort_keys=True, indent=2))
