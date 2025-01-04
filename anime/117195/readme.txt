@@ -1,0 +1,1 @@
+cover of the last volume (from mangadex)
