@@ -26,7 +26,7 @@ jobs:
             - name: Resize images
               run: python resize-images.py
 
-            - name: Publish to gh-pages
+            - name: Publish to 'covers' branch
               uses: peaceiris/actions-gh-pages@v3
               with:
                 github_token: ${{ secrets.GITHUB_TOKEN }}
@@ -34,3 +34,4 @@ jobs:
                 publish_branch: covers
                 user_name: 'github-actions[bot]' # https://github.com/peaceiris/actions-gh-pages/tree/v3/?tab=readme-ov-file#%EF%B8%8F-set-git-username-and-email
                 user_email: '41898282+github-actions[bot]@users.noreply.github.com' # https://github.com/actions/checkout?tab=readme-ov-file#push-a-commit-using-the-built-in-token
+                full_commit_message: '[deploy] updated images ${{ github.event.head_commit.id }}'
