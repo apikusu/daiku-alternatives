@@ -26,13 +26,11 @@ jobs:
             - name: Resize images
               run: python resize-images.py
 
-            - name: Setup Git as GitHub Actions bot
-              run: | # https://github.com/actions/checkout?tab=readme-ov-file#push-a-commit-using-the-built-in-token
-                git config user.name "github-actions[bot]"
-                git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
             - name: Publish to gh-pages
               uses: peaceiris/actions-gh-pages@v3
               with:
                 github_token: ${{ secrets.GITHUB_TOKEN }}
                 publish_dir: ./resized
+                publish_branch: covers
+                user_name: 'github-actions[bot]' # https://github.com/peaceiris/actions-gh-pages/tree/v3/?tab=readme-ov-file#%EF%B8%8F-set-git-username-and-email
+                user_email: '41898282+github-actions[bot]@users.noreply.github.com' # https://github.com/actions/checkout?tab=readme-ov-file#push-a-commit-using-the-built-in-token
