@@ -26,7 +26,8 @@ jobs:
             - name: Resize images
               run: python resize-images.py
 
-            - run: | # https://github.com/actions/checkout?tab=readme-ov-file#push-a-commit-using-the-built-in-token
+            - name: Setup Git as GitHub Actions bot
+              run: | # https://github.com/actions/checkout?tab=readme-ov-file#push-a-commit-using-the-built-in-token
                 git config user.name "github-actions[bot]"
                 git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
