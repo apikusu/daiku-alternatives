@@ -1,0 +1,32 @@
+{
+    "title": "daiku-alternatives media informations",
+    "description": "json object containing data about the anime's images sources and/or title overrides",
+    "type": "object",
+    "properties": {
+        "image": {
+            "type": "object",
+            "properties": {
+                "date": {
+                    "type": "string",
+                    "minLength": 1
+                },
+                "original": {
+                    "type": "string",
+                    "minLength": 1
+                },
+                "archive": {
+                    "type": "string",
+                    "minLength": 1
+                }
+            },
+            "required": [
+                "date",
+                "archive"
+            ]
+        },
+        "title": {
+            "type": "string",
+            "minLength": 1
+        }
+    }
+}

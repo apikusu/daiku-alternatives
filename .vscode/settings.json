@@ -1,0 +1,8 @@
+{
+    "json.schemas": [
+        {
+            "fileMatch": ["/anilist/**/infos.json"],
+            "url": "/schema.json"
+        }
+    ]
+}
