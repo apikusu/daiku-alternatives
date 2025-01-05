@@ -1,4 +1,5 @@
 import json
+import os
 from datetime import datetime, timezone
 
 with open(f'./resized/overrides.json') as f:
@@ -23,6 +24,13 @@ for anime_id in file.keys():
             text += f'* `size: {key}`: [{value[3:]}]({value[3:]})\n'
     else:
         text += '* no cover override\n'
+    
+    readme_path = f'./anilist/{anime_id}/readme.txt'
+    if os.path.exists(readme_path):
+        with open(readme_path, 'r') as readme_file:
+            readme_content = readme_file.read().strip()
+            text += f'* change description:\n```\n{readme_content}\n```\n'
+    
     anime_overrides_text += text + f'\n' # break a line after each override
 
 mdtext = f'''# daiku-alternatives
