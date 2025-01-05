@@ -1,4 +1,4 @@
-name: resize images & publish on 'covers' branch
+name: resize images & publish on 'alternatives' branch
 
 on:
   push:
@@ -23,15 +23,15 @@ jobs:
               with:
                 python-version: '3.13' 
             
-            - name: Resize images
-              run: python resize-images.py
+            - name: Resize images & create JSON
+              run: python resize-and-create-json.py
 
-            - name: Publish to 'covers' branch
+            - name: Publish to 'alternatives' branch
               uses: peaceiris/actions-gh-pages@v3
               with:
                 github_token: ${{ secrets.GITHUB_TOKEN }}
                 publish_dir: ./resized
-                publish_branch: covers
+                publish_branch: alternatives
                 user_name: 'github-actions[bot]' # https://github.com/peaceiris/actions-gh-pages/tree/v3/?tab=readme-ov-file#%EF%B8%8F-set-git-username-and-email
                 user_email: '41898282+github-actions[bot]@users.noreply.github.com' # https://github.com/actions/checkout?tab=readme-ov-file#push-a-commit-using-the-built-in-token
                 full_commit_message: '[deploy] updated images ${{ github.event.head_commit.id }}'
