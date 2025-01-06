@@ -1,0 +1,1 @@
+edited (by me) cover art to remove title
