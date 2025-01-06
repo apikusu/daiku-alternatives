@@ -1,7 +1,7 @@
 {
     "json.schemas": [
         {
-            "fileMatch": ["/anilist/**/infos.json"],
+            "fileMatch": ["/anilist/**/infos.json", "/tmdb/**/infos.json"],
             "url": "/schema.json"
         }
     ]

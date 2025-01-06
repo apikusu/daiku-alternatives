@@ -12,8 +12,8 @@
                     "minLength": 1
                 },
                 "original": {
-                    "description": "link to the original image (from official sources / producers)",
-                    "type": "string",
+                    "description": "link to the original image",
+                    "type": ["string", "array"],
                     "minLength": 1
                 },
                 "archive": {
