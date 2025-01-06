@@ -7,14 +7,17 @@
             "type": "object",
             "properties": {
                 "date": {
+                    "description": "iso-8601 timestamp for the date at which the image was updated",
                     "type": "string",
                     "minLength": 1
                 },
                 "original": {
+                    "description": "link to the original image (from official sources / producers)",
                     "type": "string",
                     "minLength": 1
                 },
                 "archive": {
+                    "description": "link to the original image (on an archive website, preferably web.archive.org)",
                     "type": "string",
                     "minLength": 1
                 }
@@ -25,8 +28,13 @@
             ]
         },
         "title": {
+            "description": "override for the title of the anime/manga. replaces english title",
             "type": "string",
             "minLength": 1
+        },
+        "airingEpisodesOffset": {
+            "description": "offset for currently airing anime episode number",
+            "type": "number"
         }
     }
 }

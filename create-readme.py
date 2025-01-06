@@ -18,18 +18,23 @@ for anime_id in file.keys():
 
 '''
     covers = file[anime_id].get('covers', {})
+    airingEpisodesOffset = file[anime_id].get('airingEpisodesOffset', None)
     if covers:
-        text += f'<img align="right" src="{covers.get("small")[3:]}" height="80px">\n\n'
+        text += f'<img align="right" src="{covers.get("small")[3:]}" height="100px">\n\n'
+        text += '* cover:\n'
         for key, value in covers.items():
-            text += f'* `size: {key}`: [{value[3:]}]({value[3:]})\n'
+            text += f'  * `{key}`: [{value[3:]}]({value[3:]})\n'
     else:
         text += '* no cover override\n'
+
+    if airingEpisodesOffset:
+        text += f'* airing episodes offset: `{airingEpisodesOffset:+}`\n' # :+ so it always prints the + sign
     
     readme_path = f'./anilist/{anime_id}/readme.txt'
     if os.path.exists(readme_path):
         with open(readme_path, 'r') as readme_file:
             readme_content = readme_file.read().strip()
-            text += f'* change description:\n```\n{readme_content}\n```\n'
+            text += f'* change note:\n```\n{readme_content}\n```\n'
     
     anime_overrides_text += text + f'\n' # break a line after each override
 

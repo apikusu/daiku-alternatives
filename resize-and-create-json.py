@@ -31,10 +31,13 @@ for id in os.listdir(inputdir):
         with open(f'{inputdir}/{id}/infos.json', 'r') as info_file:
             info = json.load(info_file)
             title = info.get('title')
+            airingEpisodesOffset = info.get("airingEpisodesOffset")
         if covers:
             data[id]["covers"] = covers
         if title:
             data[id]["title"] = title
+        if airingEpisodesOffset:
+            data[id]["airingEpisodesOffset"] = airingEpisodesOffset
 
 
 with open(f'{outdir}/overrides.json', 'w') as f:
