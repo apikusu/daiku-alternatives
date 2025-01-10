@@ -29,10 +29,15 @@ for inputdir in indirs:
                 covers = { os.path.splitext(file)[0]: f'../{id}/{file}' for file in os.listdir(f'{outdir}/{id}') if '.jpg' in file }
             except:
                 covers = None
-            with open(f'{inputdir}/{id}/infos.json', 'r') as info_file:
-                info = json.load(info_file)
-                title = info.get('title')
-                airingEpisodesOffset = info.get("airingEpisodesOffset")
+            info_path = f'{inputdir}/{id}/infos.json'
+            if os.path.exists(info_path):
+                with open(info_path, 'r') as info_file:
+                    info = json.load(info_file)
+                    title = info.get('title')
+                    airingEpisodesOffset = info.get("airingEpisodesOffset")
+            else:
+                title = None
+                airingEpisodesOffset = None
             if covers:
                 data[id]["covers"] = covers
             if title:
