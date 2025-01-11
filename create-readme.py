@@ -21,6 +21,7 @@ for anime_id in file.keys():
 '''
     covers = file[anime_id].get('covers', {})
     airingEpisodesOffset = file[anime_id].get('airingEpisodesOffset', None)
+    accentColor = file[anime_id].get("accentColor", None)
     if covers:
         text += f'<img align="right" src="anilist/{covers.get("small")[3:]}" height="100px">\n\n'
         text += '* cover:\n'
@@ -32,6 +33,9 @@ for anime_id in file.keys():
     if airingEpisodesOffset:
         text += f'* airing episodes offset: `{airingEpisodesOffset:+}`\n' # :+ so it always prints the + sign
     
+    if accentColor:
+        text += f'* accent color: ![{accentColor}](https://singlecolorimage.com/get/{accentColor[1:]}/10x10) `{accentColor}`\n'
+
     readme_path = f'./anilist/{anime_id}/readme.txt'
     if os.path.exists(readme_path):
         with open(readme_path, 'r') as readme_file:

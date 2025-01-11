@@ -35,6 +35,12 @@
         "airingEpisodesOffset": {
             "description": "offset for currently airing anime episode number",
             "type": "number"
+        },
+        "accentColor": {
+            "description": "accent color for the override image",
+            "type": "string",
+            "minLength": 4,
+            "maxLength": 7
         }
     }
 }

@@ -35,15 +35,19 @@ for inputdir in indirs:
                     info = json.load(info_file)
                     title = info.get('title')
                     airingEpisodesOffset = info.get("airingEpisodesOffset")
+                    accentColor = info.get("accentColor")
             else:
                 title = None
                 airingEpisodesOffset = None
+                accentColor = None
             if covers:
                 data[id]["covers"] = covers
             if title:
                 data[id]["title"] = title
             if airingEpisodesOffset:
                 data[id]["airingEpisodesOffset"] = airingEpisodesOffset
+            if accentColor:
+                data[id]["accentColor"] = accentColor
 
     with open(f'{outdir}/overrides.json', 'w') as f:
         f.write(json.dumps({k: data[k] for k in sorted(data, key=int)}, indent=2))
