@@ -1,1 +1,1 @@
-first key visual of the anime
+teaser key visual of the anime
