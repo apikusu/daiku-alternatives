@@ -1,0 +1,1 @@
+colours look better with this one than with the anilist/main cover
