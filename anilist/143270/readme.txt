@@ -1,1 +1,2 @@
-teaser key visual of the anime
+third key visual of the anime
+(i have trouble choosing which one to put)
