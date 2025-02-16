@@ -31,7 +31,7 @@ for anime_id in file.keys():
         text += '* no cover override\n'
 
     if airingEpisodesOffset:
-        text += f'* airing episodes offset: `{airingEpisodesOffset:+}`\n' # :+ so it always prints the + sign
+        text += f'* airing episodes offset: `{int(airingEpisodesOffset):+}`\n' # :+ so it always prints the + sign
     
     if accentColor:
         text += f'* accent color: ![{accentColor}](https://singlecolorimage.com/get/{accentColor[1:]}/10x10) `{accentColor}`\n'
