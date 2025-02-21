@@ -1,2 +1,2 @@
-cover of the 9th volume of the manga since i liked that one more
+cover of the 13th volume of the manga
 comes from mangadex
