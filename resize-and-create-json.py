@@ -36,6 +36,7 @@ for inputdir in indirs:
                     title = info.get('title')
                     airingEpisodesOffset = info.get("airingEpisodesOffset")
                     accentColor = info.get("accentColor")
+                    releaseTime = info.get("releaseTimeUTC")
             else:
                 title = None
                 airingEpisodesOffset = None
@@ -48,8 +49,8 @@ for inputdir in indirs:
                 data[id]["airingEpisodesOffset"] = airingEpisodesOffset
             if accentColor:
                 data[id]["accentColor"] = accentColor
-            if releaseTimeUTC:
-                data[id]["releaseTime"] = releaseTimeUTC
+            if releaseTime:
+                data[id]["releaseTime"] = releaseTime
 
     with open(f'{outdir}/overrides.json', 'w') as f:
         f.write(json.dumps({k: data[k] for k in sorted(data, key=int)}, indent=2))
