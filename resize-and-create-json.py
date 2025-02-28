@@ -48,6 +48,8 @@ for inputdir in indirs:
                 data[id]["airingEpisodesOffset"] = airingEpisodesOffset
             if accentColor:
                 data[id]["accentColor"] = accentColor
+            if releaseTimeUTC:
+                data[id]["releaseTime"] = releaseTimeUTC
 
     with open(f'{outdir}/overrides.json', 'w') as f:
         f.write(json.dumps({k: data[k] for k in sorted(data, key=int)}, indent=2))
