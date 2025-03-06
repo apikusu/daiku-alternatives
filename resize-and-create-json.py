@@ -26,7 +26,7 @@ for inputdir in indirs:
         if os.path.isdir(os.path.join(inputdir, id)):
             data[id] = {}
             try:
-                covers = { os.path.splitext(file)[0]: f'../{id}/{file}' for file in os.listdir(f'{outdir}/{id}') if '.jpg' in file }
+                covers = { os.path.splitext(file)[0]: f'{id}/{file}' for file in os.listdir(f'{outdir}/{id}') if '.jpg' in file }
             except:
                 covers = None
             info_path = f'{inputdir}/{id}/infos.json'
