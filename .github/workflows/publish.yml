@@ -26,6 +26,9 @@ jobs:
             - name: Resize images & create JSON
               run: python resize-and-create-json.py
             
+            - name: Create JSON for Mangacollec
+              run: python mangacollec.py
+
             - name: Create README 
               run: python create-readme.py
 
