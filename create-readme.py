@@ -24,10 +24,10 @@ for anime_id in file.keys():
     accentColor = file[anime_id].get("accentColor", None)
     releaseTime = file[anime_id].get("releaseTime", None)
     if covers:
-        text += f'<img align="right" src="anilist/{covers.get("small")[3:]}" height="100px">\n\n'
+        text += f'<img align="right" src="anilist/{covers.get("small")}" height="100px">\n\n'
         text += '* cover:\n'
         for key, value in covers.items():
-            text += f'  * `{key}`: [anilist/{value[3:]}](anilist/{value[3:]})\n'
+            text += f'  * `{key}`: [anilist/{value}](anilist/{value})\n'
     else:
         text += '* no cover override\n'
 
@@ -65,10 +65,10 @@ for tmdb_id in file.keys():
     covers = file[tmdb_id].get('covers', {})
     airingEpisodesOffset = file[tmdb_id].get('airingEpisodesOffset', None)
     if covers:
-        text += f'<img align="right" src="tmdb/{covers.get("small")[3:]}" height="100px">\n\n'
+        text += f'<img align="right" src="tmdb/{covers.get("small")}" height="100px">\n\n'
         text += '* cover:\n'
         for key, value in covers.items():
-            text += f'  * `{key}`: [tmdb/{value[3:]}](tmdb/{value[3:]})\n'
+            text += f'  * `{key}`: [tmdb/{value}](tmdb/{value})\n'
     else:
         text += '* no cover override\n'
     
