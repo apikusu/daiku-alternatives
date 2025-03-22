@@ -1,1 +1,0 @@
-doesn't have a proper cover art yet, will remove when cover art releases
