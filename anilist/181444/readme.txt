@@ -1,0 +1,1 @@
+cover art without series name in the middle (using screenshots from the seiyuu pv - https://www.youtube.com/watch?v=DhXMTCRmLsE)
