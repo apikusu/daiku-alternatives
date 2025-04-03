@@ -1,8 +1,8 @@
 # daiku-alternatives
 
-last updated at: `April 03, 2025 16:29 UTC`
+last updated at: `April 03, 2025 19:04 UTC`
 
-total anilist overrides count: `43`
+total anilist overrides count: `44`
 
 total tmdb overrides count: `6`
 
@@ -87,6 +87,16 @@ comes from mangacollec
 ```
 cover of the last volume (from mangadex)
 ```
+
+### 120377
+
+<img align="right" src="anilist/120377/small.jpg" height="100px">
+
+* cover:
+  * `medium`: [anilist/120377/medium.jpg](anilist/120377/medium.jpg)
+  * `large`: [anilist/120377/large.jpg](anilist/120377/large.jpg)
+  * `small`: [anilist/120377/small.jpg](anilist/120377/small.jpg)
+* accent color: ![#f9e904](https://singlecolorimage.com/get/f9e904/10x10) `#f9e904`
 
 ### 124080
 

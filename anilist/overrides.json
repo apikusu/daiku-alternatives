@@ -50,6 +50,14 @@
       "small": "117195/small.jpg"
     }
   },
+  "120377": {
+    "covers": {
+      "medium": "120377/medium.jpg",
+      "large": "120377/large.jpg",
+      "small": "120377/small.jpg"
+    },
+    "accentColor": "#f9e904"
+  },
   "124080": {
     "covers": {
       "medium": "124080/medium.jpg",
