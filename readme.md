@@ -1,10 +1,10 @@
 # daiku-alternatives
 
-last updated at: `March 28, 2025 10:39 UTC`
+last updated at: `April 03, 2025 16:29 UTC`
 
 total anilist overrides count: `43`
 
-total tmdb overrides count: `5`
+total tmdb overrides count: `6`
 
 ## anilist overrides
 
@@ -430,5 +430,9 @@ edited (by me) cover art to remove title
   * `medium`: [tmdb/916224/medium.jpg](tmdb/916224/medium.jpg)
   * `large`: [tmdb/916224/large.jpg](tmdb/916224/large.jpg)
   * `small`: [tmdb/916224/small.jpg](tmdb/916224/small.jpg)
+
+### 1322752 - as `COLORFUL STAGE! The Movie: A Miku Who Can't Sing`
+
+* no cover override
 
 
