@@ -1,6 +1,6 @@
 # daiku-alternatives
 
-last updated at: `April 03, 2025 19:04 UTC`
+last updated at: `April 04, 2025 17:29 UTC`
 
 total anilist overrides count: `44`
 
@@ -73,7 +73,13 @@ comes from mangacollec
 
 ### 105334 - as `Fruits Basket`
 
-* no cover override
+<img align="right" src="anilist/105334/small.jpg" height="100px">
+
+* cover:
+  * `medium`: [anilist/105334/medium.jpg](anilist/105334/medium.jpg)
+  * `large`: [anilist/105334/large.jpg](anilist/105334/large.jpg)
+  * `small`: [anilist/105334/small.jpg](anilist/105334/small.jpg)
+* accent color: ![#eca46c](https://singlecolorimage.com/get/eca46c/10x10) `#eca46c`
 
 ### 117195
 

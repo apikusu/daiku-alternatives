@@ -41,7 +41,13 @@
     "title": "We Want to Talk About Kaguya"
   },
   "105334": {
-    "title": "Fruits Basket"
+    "covers": {
+      "medium": "105334/medium.jpg",
+      "large": "105334/large.jpg",
+      "small": "105334/small.jpg"
+    },
+    "title": "Fruits Basket",
+    "accentColor": "#eca46c"
   },
   "117195": {
     "covers": {
