@@ -1,3 +1,8 @@
 {
-    "title": "Fruits Basket"
+    "title": "Fruits Basket",
+    "image": {
+        "original": "https://i.postimg.cc/FrcSMw5Q/affiche-9999x0.jpg",
+        "archive": "https://web.archive.org/web/20240118054420if_/https://i.postimg.cc/FrcSMw5Q/affiche-9999x0.jpg"
+    },
+    "accentColor": "#eca46c"
 }
