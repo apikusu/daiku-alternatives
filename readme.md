@@ -1,8 +1,8 @@
 # daiku-alternatives
 
-last updated at: `April 05, 2025 12:41 UTC`
+last updated at: `April 06, 2025 15:58 UTC`
 
-total anilist overrides count: `44`
+total anilist overrides count: `45`
 
 total tmdb overrides count: `7`
 
@@ -387,7 +387,22 @@ again, i don't like full-capital titles
 * change note:
 ```
 season 1 bluray vol 2 cover, will remove when actual art is released
-(the anllist cover is just a white screen with the logo)
+(the anilist cover is just a white screen with the logo)
+```
+
+### 189796 - as `Too Many Losing Heroines! Season 2`
+
+<img align="right" src="anilist/189796/small.jpg" height="100px">
+
+* cover:
+  * `medium`: [anilist/189796/medium.jpg](anilist/189796/medium.jpg)
+  * `large`: [anilist/189796/large.jpg](anilist/189796/large.jpg)
+  * `small`: [anilist/189796/small.jpg](anilist/189796/small.jpg)
+* change note:
+```
+art by @edomondohonda3 on twitter, will remove when actual art is released
+https://x.com/edomondohonda3/status/1908834863580684322
+(the anilist cover is just a white screen with the logo)
 ```
 
 
