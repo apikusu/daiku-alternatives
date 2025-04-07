@@ -1,8 +1,8 @@
 # daiku-alternatives
 
-last updated at: `April 06, 2025 15:58 UTC`
+last updated at: `April 07, 2025 22:25 UTC`
 
-total anilist overrides count: `45`
+total anilist overrides count: `46`
 
 total tmdb overrides count: `7`
 
@@ -221,6 +221,15 @@ there was a capital letter to "No" and not for the S2 it disturbed me
 ### 154768 - as `My Dress-Up Darling Season 2`
 
 * no cover override
+
+### 160651
+
+<img align="right" src="anilist/160651/small.jpg" height="100px">
+
+* cover:
+  * `medium`: [anilist/160651/medium.jpg](anilist/160651/medium.jpg)
+  * `large`: [anilist/160651/large.jpg](anilist/160651/large.jpg)
+  * `small`: [anilist/160651/small.jpg](anilist/160651/small.jpg)
 
 ### 162804
 
