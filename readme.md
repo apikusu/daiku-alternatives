@@ -1,6 +1,6 @@
 # daiku-alternatives
 
-last updated at: `April 13, 2025 19:39 UTC`
+last updated at: `April 13, 2025 19:53 UTC`
 
 total anilist overrides count: `46`
 
@@ -302,7 +302,6 @@ else the title was too long 💀
   * `medium`: [anilist/175443/medium.jpg](anilist/175443/medium.jpg)
   * `large`: [anilist/175443/large.jpg](anilist/175443/large.jpg)
   * `small`: [anilist/175443/small.jpg](anilist/175443/small.jpg)
-* release time override: `17:25 UTC`
 * change note:
 ```
 original image (o-original.jpg) oversaturated by 125% (saturate(1.25) in css filter terms) and zoomed in by 120% (background-size: 1.20)
@@ -324,7 +323,6 @@ magick .\o-original.jpg -modulate 100,125 -distort SRT '1.2 0' .\original.jpg
   * `medium`: [anilist/178462/medium.jpg](anilist/178462/medium.jpg)
   * `large`: [anilist/178462/large.jpg](anilist/178462/large.jpg)
   * `small`: [anilist/178462/small.jpg](anilist/178462/small.jpg)
-* release time override: `16:00 UTC`
 * change note:
 ```
 this is the second cover image
@@ -339,12 +337,10 @@ changed cuz the anilist one (3rd) was wayy too cluttered
   * `medium`: [anilist/179696/medium.jpg](anilist/179696/medium.jpg)
   * `large`: [anilist/179696/large.jpg](anilist/179696/large.jpg)
   * `small`: [anilist/179696/small.jpg](anilist/179696/small.jpg)
-* airing episodes offset: `-1`
 * change note:
 ```
-first ar, seems calmer imo
+first ar, seems calmer imo & colours look better
 + we didn't see most of the characters anyway
--1 for offset as i watch the french fansub by team arcedo, which has a 1-week delay on the latest episode
 ```
 
 ### 181444 - as `The Fragrant Flower Blooms With Dignity`

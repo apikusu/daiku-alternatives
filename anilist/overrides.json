@@ -188,11 +188,7 @@
       "medium": "175443/medium.jpg",
       "large": "175443/large.jpg",
       "small": "175443/small.jpg"
-    },
-    "releaseTime": [
-      17,
-      25
-    ]
+    }
   },
   "176301": {
     "releaseTime": [
@@ -205,18 +201,14 @@
       "medium": "178462/medium.jpg",
       "large": "178462/large.jpg",
       "small": "178462/small.jpg"
-    },
-    "releaseTime": [
-      16
-    ]
+    }
   },
   "179696": {
     "covers": {
       "medium": "179696/medium.jpg",
       "large": "179696/large.jpg",
       "small": "179696/small.jpg"
-    },
-    "airingEpisodesOffset": -1
+    }
   },
   "181444": {
     "covers": {
