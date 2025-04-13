@@ -1,2 +1,1 @@
-limited edition cover for the french volume 13
-comes from mangacollec
+cover of the 16th volume, from mangadex
