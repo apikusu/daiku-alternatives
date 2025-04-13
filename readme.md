@@ -1,6 +1,6 @@
 # daiku-alternatives
 
-last updated at: `April 13, 2025 12:48 UTC`
+last updated at: `April 13, 2025 13:11 UTC`
 
 total anilist overrides count: `46`
 
@@ -56,7 +56,7 @@ i like the star
   * `medium`: [anilist/72451/medium.jpg](anilist/72451/medium.jpg)
   * `large`: [anilist/72451/large.jpg](anilist/72451/large.jpg)
   * `small`: [anilist/72451/small.jpg](anilist/72451/small.jpg)
-* accent color: ![#dd0c33](https://singlecolorimage.com/get/dd0c33/10x10) `#dd0c33`
+* accent color: ![#ff548e](https://singlecolorimage.com/get/ff548e/10x10) `#ff548e`
 * change note:
 ```
 cover of the 16th volume, from mangadex
