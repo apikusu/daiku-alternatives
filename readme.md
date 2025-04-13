@@ -1,10 +1,10 @@
 # daiku-alternatives
 
-last updated at: `April 13, 2025 13:11 UTC`
+last updated at: `April 13, 2025 19:39 UTC`
 
 total anilist overrides count: `46`
 
-total tmdb overrides count: `7`
+total tmdb overrides count: `8`
 
 ## anilist overrides
 
@@ -450,6 +450,21 @@ too much change on the tmdb page
 * change note:
 ```
 edited (by me) cover art to remove title
+```
+
+### 896499
+
+<img align="right" src="tmdb/896499/small.jpg" height="100px">
+
+* cover:
+  * `medium`: [tmdb/896499/medium.jpg](tmdb/896499/medium.jpg)
+  * `large`: [tmdb/896499/large.jpg](tmdb/896499/large.jpg)
+  * `small`: [tmdb/896499/small.jpg](tmdb/896499/small.jpg)
+* change note:
+```
+we coulnd't really distinguish what was going on in the second cover art so i've put 1st instead
+also added both textless cover arts to tmdb (low-res tho cuz of their restrictions on aspect ratio or idk what)
+second one full-res available at `main2_pc.jpg`
 ```
 
 ### 916192
