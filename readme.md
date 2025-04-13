@@ -1,6 +1,6 @@
 # daiku-alternatives
 
-last updated at: `April 07, 2025 22:25 UTC`
+last updated at: `April 13, 2025 12:48 UTC`
 
 total anilist overrides count: `46`
 
@@ -59,8 +59,7 @@ i like the star
 * accent color: ![#dd0c33](https://singlecolorimage.com/get/dd0c33/10x10) `#dd0c33`
 * change note:
 ```
-limited edition cover for the french volume 13
-comes from mangacollec
+cover of the 16th volume, from mangadex
 ```
 
 ### 98033 - as `Kamisama Kiss: The God Will Be Happy`
