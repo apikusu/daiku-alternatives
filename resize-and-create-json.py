@@ -16,9 +16,9 @@ for inputdir in indirs:
                 os.makedirs(f'{outdir}/{d}', exist_ok=True)
                 input_path = f'{inputdir}/{d}/{f}'
                 output_path = f'{outdir}/{d}/'
-                subprocess.run(['convert', input_path, '-resize', "500x", '-quality', quality, output_path + "large.jpg"])
-                subprocess.run(['convert', input_path, '-resize', "250x", '-quality', quality, output_path + "medium.jpg"])
-                subprocess.run(['convert', input_path, '-resize', "100x", '-quality', quality, output_path + "small.jpg"])
+                subprocess.run(['magick', input_path, '-resize', "500x", '-quality', quality, output_path + "large.jpg"])
+                subprocess.run(['magick', input_path, '-resize', "250x", '-quality', quality, output_path + "medium.jpg"])
+                subprocess.run(['magick', input_path, '-resize', "100x", '-quality', quality, output_path + "small.jpg"])
 
     data = {}
 
