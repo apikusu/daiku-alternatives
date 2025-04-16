@@ -1,8 +1,8 @@
 # daiku-alternatives
 
-last updated at: `April 13, 2025 19:53 UTC`
+last updated at: `April 16, 2025 20:55 UTC`
 
-total anilist overrides count: `46`
+total anilist overrides count: `47`
 
 total tmdb overrides count: `8`
 
@@ -65,6 +65,20 @@ cover of the 16th volume, from mangadex
 ### 98033 - as `Kamisama Kiss: The God Will Be Happy`
 
 * no cover override
+
+### 101426 - as `Teasing Master Takagi-san: Water Slide`
+
+<img align="right" src="anilist/101426/small.jpg" height="100px">
+
+* cover:
+  * `medium`: [anilist/101426/medium.jpg](anilist/101426/medium.jpg)
+  * `large`: [anilist/101426/large.jpg](anilist/101426/large.jpg)
+  * `small`: [anilist/101426/small.jpg](anilist/101426/small.jpg)
+* change note:
+```
+cover is turned around & resized thumbnail from imdb
+https://www.imdb.com/title/tt13069540/mediaviewer/rm1435094785/
+```
 
 ### 102423 - as `We Want to Talk About Kaguya`
 
