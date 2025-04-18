@@ -1,10 +1,10 @@
 # daiku-alternatives
 
-last updated at: `April 16, 2025 21:04 UTC`
+last updated at: `April 18, 2025 17:04 UTC`
 
 total anilist overrides count: `47`
 
-total tmdb overrides count: `8`
+total tmdb overrides count: `9`
 
 ## anilist overrides
 
@@ -494,6 +494,19 @@ second one full-res available at `main2_pc.jpg`
   * `medium`: [tmdb/916224/medium.jpg](tmdb/916224/medium.jpg)
   * `large`: [tmdb/916224/large.jpg](tmdb/916224/large.jpg)
   * `small`: [tmdb/916224/small.jpg](tmdb/916224/small.jpg)
+
+### 938567
+
+<img align="right" src="tmdb/938567/small.jpg" height="100px">
+
+* cover:
+  * `medium`: [tmdb/938567/medium.jpg](tmdb/938567/medium.jpg)
+  * `large`: [tmdb/938567/large.jpg](tmdb/938567/large.jpg)
+  * `small`: [tmdb/938567/small.jpg](tmdb/938567/small.jpg)
+* change note:
+```
+ar from the movie's website, we couldn't see the characters so bad
+```
 
 ### 950387
 
