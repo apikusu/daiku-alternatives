@@ -14,14 +14,6 @@ jobs:
         steps:
             - name: Clone repository
               uses: actions/checkout@v2
-              
-            - name: Install ImageMagick
-              run: brew install imagemagick
-
-            # - name: Setup Python
-            #   uses: actions/setup-python@v5
-            #   with:
-            #     python-version: '3.13' 
             
             - name: Resize images & create JSON
               run: python resize-and-create-json.py

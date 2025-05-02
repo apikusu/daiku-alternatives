@@ -1,56 +1,84 @@
 import json
 import os
 import subprocess
+import shutil
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 indirs = ['anilist', 'tmdb']
-quality = "90%"
+quality = "90"
+max_workers = os.cpu_count() or 4
 
-for inputdir in indirs:
-    outdir = os.path.join('resized', inputdir)
-    os.makedirs(outdir, exist_ok=True)
+def resize_image_task(input_path, output_path_base):
+    sizes = [("large", "500"), ("medium", "250"), ("small", "100")]
+    for label, size in sizes:
+        output_path = f"{output_path_base}{label}.jpg"
+        if shutil.which("sips"):
+            temp_path = output_path + ".tmp.jpg"
+            subprocess.run(["sips", "-Z", size, input_path, "--out", temp_path], check=True)
+            os.rename(temp_path, output_path)
+            print(f"sips: created {output_path}")
+        elif shutil.which("magick"):
+            subprocess.run([
+                "magick", input_path,
+                "-resize", f"{size}x",
+                "-quality", quality,
+                output_path
+            ], check=True)
+            print(f"magick: created {output_path}")
+        else:
+            raise RuntimeError("Neither 'sips' nor 'magick' found on this system.")
 
-    for d in os.listdir(inputdir):
-        files = os.listdir(os.path.join(inputdir, d))
-        for f in files:
-            if f == 'original.jpg' or f == 'original.png' or f == 'original.jpeg' or f == 'original.webp':
-                os.makedirs(f'{outdir}/{d}', exist_ok=True)
-                input_path = f'{inputdir}/{d}/{f}'
-                output_path = f'{outdir}/{d}/'
-                subprocess.run(['convert', input_path, '-resize', "500x", '-quality', quality, output_path + "large.jpg"])
-                subprocess.run(['convert', input_path, '-resize', "250x", '-quality', quality, output_path + "medium.jpg"])
-                subprocess.run(['convert', input_path, '-resize', "100x", '-quality', quality, output_path + "small.jpg"])
+def collect_resize_jobs():
+    jobs = []
+    for inputdir in indirs:
+        outdir = os.path.join('resized', inputdir)
+        os.makedirs(outdir, exist_ok=True)
 
-    data = {}
+        for d in os.listdir(inputdir):
+            subdir = os.path.join(inputdir, d)
+            if not os.path.isdir(subdir):
+                continue
+            for f in os.listdir(subdir):
+                if f in ('original.jpg', 'original.png', 'original.jpeg', 'original.webp'):
+                    os.makedirs(f'{outdir}/{d}', exist_ok=True)
+                    input_path = f'{inputdir}/{d}/{f}'
+                    output_path_base = f'{outdir}/{d}/'
+                    jobs.append((input_path, output_path_base))
+    return jobs
 
-    for id in os.listdir(inputdir):
-        if os.path.isdir(os.path.join(inputdir, id)):
-            data[id] = {}
-            try:
-                covers = { os.path.splitext(file)[0]: f'{id}/{file}' for file in os.listdir(f'{outdir}/{id}') if '.jpg' in file }
-            except:
-                covers = None
-            info_path = f'{inputdir}/{id}/infos.json'
-            if os.path.exists(info_path):
-                with open(info_path, 'r') as info_file:
-                    info = json.load(info_file)
-                    title = info.get('title')
-                    airingEpisodesOffset = info.get("airingEpisodesOffset")
-                    accentColor = info.get("accentColor")
-                    releaseTime = info.get("releaseTimeUTC")
-            else:
-                title = None
-                airingEpisodesOffset = None
-                accentColor = None
-            if covers:
-                data[id]["covers"] = covers
-            if title:
-                data[id]["title"] = title
-            if airingEpisodesOffset:
-                data[id]["airingEpisodesOffset"] = airingEpisodesOffset
-            if accentColor:
-                data[id]["accentColor"] = accentColor
-            if releaseTime:
-                data[id]["releaseTime"] = releaseTime
+def build_metadata():
+    for inputdir in indirs:
+        outdir = os.path.join('resized', inputdir)
+        data = {}
+        for id in os.listdir(inputdir):
+            if os.path.isdir(os.path.join(inputdir, id)):
+                data[id] = {}
+                try:
+                    covers = {
+                        os.path.splitext(file)[0]: f'{id}/{file}'
+                        for file in os.listdir(f'{outdir}/{id}')
+                        if file.endswith('.jpg')
+                    }
+                except:
+                    covers = None
+                info_path = f'{inputdir}/{id}/infos.json'
+                if os.path.exists(info_path):
+                    with open(info_path, 'r') as info_file:
+                        info = json.load(info_file)
+                        data[id]["title"] = info.get('title')
+                        data[id]["airingEpisodesOffset"] = info.get("airingEpisodesOffset")
+                        data[id]["accentColor"] = info.get("accentColor")
+                        data[id]["releaseTime"] = info.get("releaseTimeUTC")
+                if covers:
+                    data[id]["covers"] = covers
+        with open(f'{outdir}/overrides.json', 'w') as f:
+            json.dump({k: data[k] for k in sorted(data, key=int)}, f, indent=2)
 
-    with open(f'{outdir}/overrides.json', 'w') as f:
-        f.write(json.dumps({k: data[k] for k in sorted(data, key=int)}, indent=2))
+if __name__ == "__main__":
+    jobs = collect_resize_jobs()
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        futures = [executor.submit(resize_image_task, inp, out) for inp, out in jobs]
+        for future in as_completed(futures):
+            future.result()  # raise exceptions if any
+
+    build_metadata()
