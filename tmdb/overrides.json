@@ -1,5 +1,9 @@
 {
   "550": {
+    "title": null,
+    "airingEpisodesOffset": null,
+    "accentColor": null,
+    "releaseTime": null,
     "covers": {
       "medium": "550/medium.jpg",
       "large": "550/large.jpg",
@@ -7,6 +11,10 @@
     }
   },
   "667520": {
+    "title": null,
+    "airingEpisodesOffset": null,
+    "accentColor": null,
+    "releaseTime": null,
     "covers": {
       "medium": "667520/medium.jpg",
       "large": "667520/large.jpg",
@@ -14,6 +22,10 @@
     }
   },
   "776305": {
+    "title": null,
+    "airingEpisodesOffset": null,
+    "accentColor": null,
+    "releaseTime": null,
     "covers": {
       "medium": "776305/medium.jpg",
       "large": "776305/large.jpg",
@@ -21,6 +33,10 @@
     }
   },
   "896499": {
+    "title": null,
+    "airingEpisodesOffset": null,
+    "accentColor": null,
+    "releaseTime": null,
     "covers": {
       "medium": "896499/medium.jpg",
       "large": "896499/large.jpg",
@@ -28,6 +44,10 @@
     }
   },
   "916192": {
+    "title": null,
+    "airingEpisodesOffset": null,
+    "accentColor": null,
+    "releaseTime": null,
     "covers": {
       "medium": "916192/medium.jpg",
       "large": "916192/large.jpg",
@@ -35,6 +55,10 @@
     }
   },
   "916224": {
+    "title": null,
+    "airingEpisodesOffset": null,
+    "accentColor": null,
+    "releaseTime": null,
     "covers": {
       "medium": "916224/medium.jpg",
       "large": "916224/large.jpg",
@@ -42,6 +66,10 @@
     }
   },
   "938567": {
+    "title": null,
+    "airingEpisodesOffset": null,
+    "accentColor": null,
+    "releaseTime": null,
     "covers": {
       "medium": "938567/medium.jpg",
       "large": "938567/large.jpg",
@@ -56,6 +84,9 @@
     }
   },
   "1322752": {
-    "title": "COLORFUL STAGE! The Movie: A Miku Who Can't Sing"
+    "title": "COLORFUL STAGE! The Movie: A Miku Who Can't Sing",
+    "airingEpisodesOffset": null,
+    "accentColor": null,
+    "releaseTime": null
   }
 }

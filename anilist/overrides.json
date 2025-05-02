@@ -1,63 +1,101 @@
 {
   "66": {
-    "accentColor": "#e28185"
+    "title": null,
+    "airingEpisodesOffset": null,
+    "accentColor": "#e28185",
+    "releaseTime": null
   },
   "2034": {
-    "title": "Lovely\u2605Complex"
+    "title": "Lovely\u2605Complex",
+    "airingEpisodesOffset": null,
+    "accentColor": null,
+    "releaseTime": null
   },
   "14227": {
+    "title": null,
+    "airingEpisodesOffset": null,
+    "accentColor": "#ffab44",
+    "releaseTime": null,
     "covers": {
       "medium": "14227/medium.jpg",
       "large": "14227/large.jpg",
       "small": "14227/small.jpg"
-    },
-    "accentColor": "#ffab44"
+    }
   },
   "18661": {
-    "title": "Kamisama Kiss OVA"
+    "title": "Kamisama Kiss OVA",
+    "airingEpisodesOffset": null,
+    "accentColor": null,
+    "releaseTime": null
   },
   "20837": {
-    "title": "Blue Spring Ride: unwritten"
+    "title": "Blue Spring Ride: unwritten",
+    "airingEpisodesOffset": null,
+    "accentColor": null,
+    "releaseTime": null
   },
   "20900": {
     "title": "Blue Spring Ride PAGE.13",
-    "accentColor": "#4ba346"
+    "airingEpisodesOffset": null,
+    "accentColor": "#4ba346",
+    "releaseTime": null
   },
   "54294": {
-    "title": "Blue Spring Ride"
+    "title": "Blue Spring Ride",
+    "airingEpisodesOffset": null,
+    "accentColor": null,
+    "releaseTime": null
   },
   "72451": {
+    "title": null,
+    "airingEpisodesOffset": null,
+    "accentColor": "#ff548e",
+    "releaseTime": null,
     "covers": {
       "medium": "72451/medium.jpg",
       "large": "72451/large.jpg",
       "small": "72451/small.jpg"
-    },
-    "accentColor": "#ff548e"
+    }
   },
   "98033": {
-    "title": "Kamisama Kiss: The God Will Be Happy"
+    "title": "Kamisama Kiss: The God Will Be Happy",
+    "airingEpisodesOffset": null,
+    "accentColor": null,
+    "releaseTime": null
   },
   "101426": {
+    "title": "Teasing Master Takagi-san: Water Slide",
+    "airingEpisodesOffset": null,
+    "accentColor": null,
+    "releaseTime": null,
     "covers": {
       "medium": "101426/medium.jpg",
       "large": "101426/large.jpg",
       "small": "101426/small.jpg"
-    },
-    "title": "Teasing Master Takagi-san: Water Slide"
+    }
   },
   "102423": {
-    "title": "We Want to Talk About Kaguya"
+    "title": "We Want to Talk About Kaguya",
+    "airingEpisodesOffset": null,
+    "accentColor": null,
+    "releaseTime": null
   },
   "105334": {
+    "title": "Fruits Basket",
+    "airingEpisodesOffset": null,
+    "accentColor": "#eca46c",
+    "releaseTime": null,
     "covers": {
       "medium": "105334/medium.jpg",
       "large": "105334/large.jpg",
       "small": "105334/small.jpg"
-    },
-    "title": "Fruits Basket",
-    "accentColor": "#eca46c"
+    }
   },
   "117195": {
+    "title": null,
+    "airingEpisodesOffset": null,
+    "accentColor": null,
+    "releaseTime": null,
     "covers": {
       "medium": "117195/medium.jpg",
       "large": "117195/large.jpg",
@@ -65,86 +103,128 @@
     }
   },
   "120377": {
+    "title": null,
+    "airingEpisodesOffset": null,
+    "accentColor": "#f9e904",
+    "releaseTime": null,
     "covers": {
       "medium": "120377/medium.jpg",
       "large": "120377/large.jpg",
       "small": "120377/small.jpg"
-    },
-    "accentColor": "#f9e904"
+    }
   },
   "124080": {
+    "title": null,
+    "airingEpisodesOffset": null,
+    "accentColor": "#f9d58b",
+    "releaseTime": null,
     "covers": {
       "medium": "124080/medium.jpg",
       "large": "124080/large.jpg",
       "small": "124080/small.jpg"
-    },
-    "accentColor": "#f9d58b"
+    }
   },
   "125367": {
+    "title": null,
+    "airingEpisodesOffset": null,
+    "accentColor": "#fa849c",
+    "releaseTime": null,
     "covers": {
       "medium": "125367/medium.jpg",
       "large": "125367/large.jpg",
       "small": "125367/small.jpg"
-    },
-    "accentColor": "#fa849c"
+    }
   },
   "125368": {
-    "title": "Kaguya-sama: Love is War OVA"
+    "title": "Kaguya-sama: Love is War OVA",
+    "airingEpisodesOffset": null,
+    "accentColor": null,
+    "releaseTime": null
   },
   "128643": {
-    "title": "My Teen Romantic Comedy SNAFU Climax! OVA"
+    "title": "My Teen Romantic Comedy SNAFU Climax! OVA",
+    "airingEpisodesOffset": null,
+    "accentColor": null,
+    "releaseTime": null
   },
   "130003": {
+    "title": "Bocchi the Rock!",
+    "airingEpisodesOffset": null,
+    "accentColor": null,
+    "releaseTime": null,
     "covers": {
       "medium": "130003/medium.jpg",
       "large": "130003/large.jpg",
       "small": "130003/small.jpg"
-    },
-    "title": "Bocchi the Rock!"
+    }
   },
   "132029": {
+    "title": null,
+    "airingEpisodesOffset": null,
+    "accentColor": "#0de4d0",
+    "releaseTime": null,
     "covers": {
       "medium": "132029/medium.jpg",
       "large": "132029/large.jpg",
       "small": "132029/small.jpg"
-    },
-    "accentColor": "#0de4d0"
+    }
   },
   "132182": {
+    "title": null,
+    "airingEpisodesOffset": null,
+    "accentColor": "#2b89ec",
+    "releaseTime": null,
     "covers": {
       "medium": "132182/medium.jpg",
       "large": "132182/large.jpg",
       "small": "132182/small.jpg"
-    },
-    "accentColor": "#2b89ec"
+    }
   },
   "140475": {
-    "accentColor": "#c99cb9"
+    "title": null,
+    "airingEpisodesOffset": null,
+    "accentColor": "#c99cb9",
+    "releaseTime": null
   },
   "143653": {
+    "title": null,
+    "airingEpisodesOffset": null,
+    "accentColor": "#8b35c6",
+    "releaseTime": null,
     "covers": {
       "medium": "143653/medium.jpg",
       "large": "143653/large.jpg",
       "small": "143653/small.jpg"
-    },
-    "accentColor": "#8b35c6"
+    }
   },
   "149756": {
+    "title": null,
+    "airingEpisodesOffset": null,
+    "accentColor": "#ea8889",
+    "releaseTime": null,
     "covers": {
       "medium": "149756/medium.jpg",
       "large": "149756/large.jpg",
       "small": "149756/small.jpg"
-    },
-    "accentColor": "#ea8889"
+    }
   },
   "150672": {
-    "title": "Oshi no Ko"
+    "title": "Oshi no Ko",
+    "airingEpisodesOffset": null,
+    "accentColor": null,
+    "releaseTime": null
   },
   "153520": {
-    "title": "[Oshi no Ko]: Special Chapter (90.5)"
+    "title": "[Oshi no Ko]: Special Chapter (90.5)",
+    "airingEpisodesOffset": null,
+    "accentColor": null,
+    "releaseTime": null
   },
   "154768": {
-    "title": "My Dress-Up Darling Season 2"
+    "title": "My Dress-Up Darling Season 2",
+    "airingEpisodesOffset": null,
+    "accentColor": null,
+    "releaseTime": null
   },
   "160651": {
     "covers": {
@@ -154,20 +234,33 @@
     }
   },
   "162804": {
+    "title": null,
+    "airingEpisodesOffset": null,
+    "accentColor": "#941b3f",
+    "releaseTime": null,
     "covers": {
       "medium": "162804/medium.jpg",
       "large": "162804/large.jpg",
       "small": "162804/small.jpg"
-    },
-    "accentColor": "#941b3f"
+    }
   },
   "163327": {
-    "title": "The Quintessential Quintuplets~"
+    "title": "The Quintessential Quintuplets~",
+    "airingEpisodesOffset": null,
+    "accentColor": null,
+    "releaseTime": null
   },
   "170019": {
-    "title": "The Angel Next Door Spoils Me Rotten Season 2"
+    "title": "The Angel Next Door Spoils Me Rotten Season 2",
+    "airingEpisodesOffset": null,
+    "accentColor": null,
+    "releaseTime": null
   },
   "170942": {
+    "title": null,
+    "airingEpisodesOffset": null,
+    "accentColor": null,
+    "releaseTime": null,
     "covers": {
       "medium": "170942/medium.jpg",
       "large": "170942/large.jpg",
@@ -175,23 +268,39 @@
     }
   },
   "171018": {
+    "title": "Dandadan",
+    "airingEpisodesOffset": null,
+    "accentColor": null,
+    "releaseTime": null,
     "covers": {
       "medium": "171018/medium.jpg",
       "large": "171018/large.jpg",
       "small": "171018/small.jpg"
-    },
-    "title": "Dandadan"
+    }
   },
   "171046": {
-    "title": "Rascal Does Not Dream of Santa Claus"
+    "title": "Rascal Does Not Dream of Santa Claus",
+    "airingEpisodesOffset": null,
+    "accentColor": null,
+    "releaseTime": null
   },
   "171457": {
-    "title": "Too Many Losing Heroines!"
+    "title": "Too Many Losing Heroines!",
+    "airingEpisodesOffset": null,
+    "accentColor": null,
+    "releaseTime": null
   },
   "172729": {
-    "title": "They are Still Being Shaken This Morning"
+    "title": "They are Still Being Shaken This Morning",
+    "airingEpisodesOffset": null,
+    "accentColor": null,
+    "releaseTime": null
   },
   "175443": {
+    "title": null,
+    "airingEpisodesOffset": null,
+    "accentColor": null,
+    "releaseTime": null,
     "covers": {
       "medium": "175443/medium.jpg",
       "large": "175443/large.jpg",
@@ -199,6 +308,9 @@
     }
   },
   "176301": {
+    "title": null,
+    "airingEpisodesOffset": null,
+    "accentColor": null,
     "releaseTime": [
       16,
       15
@@ -212,6 +324,10 @@
     }
   },
   "179696": {
+    "title": null,
+    "airingEpisodesOffset": null,
+    "accentColor": null,
+    "releaseTime": null,
     "covers": {
       "medium": "179696/medium.jpg",
       "large": "179696/large.jpg",
@@ -219,39 +335,60 @@
     }
   },
   "181444": {
+    "title": "The Fragrant Flower Blooms With Dignity",
+    "airingEpisodesOffset": null,
+    "accentColor": null,
+    "releaseTime": null,
     "covers": {
       "medium": "181444/medium.jpg",
       "large": "181444/large.jpg",
       "small": "181444/small.jpg"
-    },
-    "title": "The Fragrant Flower Blooms With Dignity"
+    }
   },
   "181641": {
-    "title": "Alya Sometimes Hides Her Feelings in Russian Season 2"
+    "title": "Alya Sometimes Hides Her Feelings in Russian Season 2",
+    "airingEpisodesOffset": null,
+    "accentColor": null,
+    "releaseTime": null
   },
   "182255": {
-    "title": "Frieren: Beyond Journey\u2019s End Season 2"
+    "title": "Frieren: Beyond Journey\u2019s End Season 2",
+    "airingEpisodesOffset": null,
+    "accentColor": null,
+    "releaseTime": null
   },
   "182587": {
-    "title": "Oshi no Ko Season 3"
+    "title": "Oshi no Ko Season 3",
+    "airingEpisodesOffset": null,
+    "accentColor": null,
+    "releaseTime": null
   },
   "185660": {
-    "title": "Dandadan Season 2"
+    "title": "Dandadan Season 2",
+    "airingEpisodesOffset": null,
+    "accentColor": null,
+    "releaseTime": null
   },
   "189123": {
+    "title": "Blue Box Season 2",
+    "airingEpisodesOffset": null,
+    "accentColor": null,
+    "releaseTime": null,
     "covers": {
       "medium": "189123/medium.jpg",
       "large": "189123/large.jpg",
       "small": "189123/small.jpg"
-    },
-    "title": "Blue Box Season 2"
+    }
   },
   "189796": {
+    "title": "Too Many Losing Heroines! Season 2",
+    "airingEpisodesOffset": null,
+    "accentColor": null,
+    "releaseTime": null,
     "covers": {
       "medium": "189796/medium.jpg",
       "large": "189796/large.jpg",
       "small": "189796/small.jpg"
-    },
-    "title": "Too Many Losing Heroines! Season 2"
+    }
   }
 }
