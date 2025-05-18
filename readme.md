@@ -1,6 +1,6 @@
 # daiku-alternatives
 
-last updated at: `May 02, 2025 21:45 UTC`
+last updated at: `May 18, 2025 12:50 UTC`
 
 total anilist overrides count: `47`
 
@@ -294,7 +294,22 @@ i don't like full-capital titles
 
 ### 171046 - as `Rascal Does Not Dream of Santa Claus`
 
-* no cover override
+<img align="right" src="anilist/171046/small.jpg" height="100px">
+
+* cover:
+  * `medium`: [anilist/171046/medium.jpg](anilist/171046/medium.jpg)
+  * `large`: [anilist/171046/large.jpg](anilist/171046/large.jpg)
+  * `small`: [anilist/171046/small.jpg](anilist/171046/small.jpg)
+* change note:
+```
+3rd cover art, made with assets from https://ao-buta.com/santa/
+
+https://ao-buta.com/santa/assets/img/main/visual03_bg.jpg
+https://ao-buta.com/santa/assets/img/main/visual03_chara1.png
+https://ao-buta.com/santa/assets/img/main/visual03_chara2.png
+https://ao-buta.com/santa/assets/img/main/visual03_ginkgo.png
+https://ao-buta.com/santa/assets/img/main/visual03_mosaic.png
+```
 
 ### 171457 - as `Too Many Losing Heroines!`
 

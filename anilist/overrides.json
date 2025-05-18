@@ -282,7 +282,12 @@
     "title": "Rascal Does Not Dream of Santa Claus",
     "airingEpisodesOffset": null,
     "accentColor": null,
-    "releaseTime": null
+    "releaseTime": null,
+    "covers": {
+      "medium": "171046/medium.jpg",
+      "large": "171046/large.jpg",
+      "small": "171046/small.jpg"
+    }
   },
   "171457": {
     "title": "Too Many Losing Heroines!",
