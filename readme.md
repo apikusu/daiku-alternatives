@@ -1,8 +1,8 @@
 # daiku-alternatives
 
-last updated at: `May 18, 2025 12:50 UTC`
+last updated at: `May 25, 2025 11:15 UTC`
 
-total anilist overrides count: `47`
+total anilist overrides count: `52`
 
 total tmdb overrides count: `9`
 
@@ -262,6 +262,10 @@ colours look better with this one than with the anilist/main cover
 
 * no cover override
 
+### 169580 - as `I Became Friends with the Second Cutest Girl in My Class`
+
+* no cover override
+
 ### 170019 - as `The Angel Next Door Spoils Me Rotten Season 2`
 
 * no cover override
@@ -372,6 +376,10 @@ first ar, seems calmer imo & colours look better
 + we didn't see most of the characters anyway
 ```
 
+### 180082 - as `Chitose Is in the Ramune Bottle`
+
+* no cover override
+
 ### 181444 - as `The Fragrant Flower Blooms With Dignity`
 
 <img align="right" src="anilist/181444/small.jpg" height="100px">
@@ -409,6 +417,14 @@ its writing didn't match the other seasons'
 again, i don't like full-capital titles
 ```
 
+### 187260 - as `I Want to Love You Till Your Dying Day`
+
+* no cover override
+
+### 189046 - as `Re:ZERO -Starting Life in Another World- Season 4`
+
+* no cover override
+
 ### 189123 - as `Blue Box Season 2`
 
 <img align="right" src="anilist/189123/small.jpg" height="100px">
@@ -437,6 +453,10 @@ art by @edomondohonda3 on twitter, will remove when actual art is released
 https://x.com/edomondohonda3/status/1908834863580684322
 (the anilist cover is just a white screen with the logo)
 ```
+
+### 190704 - as `Mistress Kanan is Devilishly Easy`
+
+* no cover override
 
 
 
