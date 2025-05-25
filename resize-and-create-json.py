@@ -14,7 +14,7 @@ dimension_cache = {}
 def resize_image_task(input_path, output_path_base):
     sizes = [("large", 500), ("medium", 250), ("small", 100)]
 
-    if input_path not in dimension_cache:
+    if input_path not in dimension_cache and shutil.which("sips"):
         result = subprocess.run(
             ["sips", "-g", "pixelWidth", "-g", "pixelHeight", input_path],
             capture_output=True, text=True, check=True
@@ -23,8 +23,6 @@ def resize_image_task(input_path, output_path_base):
         width = int(lines[1].split(":")[1].strip())
         height = int(lines[2].split(":")[1].strip())
         dimension_cache[input_path] = (width, height)
-    else:
-        width, height = dimension_cache[input_path]
 
     for label, target_width in sizes:
         output_path = f"{output_path_base}{label}.jpg"
@@ -41,7 +39,7 @@ def resize_image_task(input_path, output_path_base):
 
         elif shutil.which("magick"):
             subprocess.run([
-                "magick", "convert", input_path,
+                "magick", input_path,
                 "-resize", f"{target_width}x",
                 "-quality", quality,
                 output_path
