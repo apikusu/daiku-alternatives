@@ -1,0 +1,1 @@
+custom cover art by me (edit made in like 15min, that's why it's so lowres)
