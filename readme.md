@@ -1,8 +1,8 @@
 # daiku-alternatives
 
-last updated at: `May 25, 2025 11:15 UTC`
+last updated at: `May 28, 2025 21:13 UTC`
 
-total anilist overrides count: `52`
+total anilist overrides count: `53`
 
 total tmdb overrides count: `9`
 
@@ -269,6 +269,19 @@ colours look better with this one than with the anilist/main cover
 ### 170019 - as `The Angel Next Door Spoils Me Rotten Season 2`
 
 * no cover override
+
+### 170221 - as `The Dangers in My Heart: Twi-Yaba`
+
+<img align="right" src="anilist/170221/small.jpg" height="100px">
+
+* cover:
+  * `medium`: [anilist/170221/medium.jpg](anilist/170221/medium.jpg)
+  * `large`: [anilist/170221/large.jpg](anilist/170221/large.jpg)
+  * `small`: [anilist/170221/small.jpg](anilist/170221/small.jpg)
+* change note:
+```
+custom cover art by me (edit made in like 15min, that's why it's so lowres)
+```
 
 ### 170942
 
