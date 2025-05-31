@@ -1,4 +1,5 @@
 import requests
+import os
 
 # Read the markdown file
 with open('resized/readme.md', 'r', encoding='utf-8') as f:
@@ -7,6 +8,11 @@ with open('resized/readme.md', 'r', encoding='utf-8') as f:
 # Request GitHub API to convert markdown to HTML
 url = 'https://api.github.com/markdown'
 headers = {'Accept': 'application/vnd.github+json'}
+
+github_token = os.getenv('GITHUB_TOKEN')
+if github_token:
+    headers['Authorization'] = f'Bearer {github_token}'
+
 response = requests.post(url, json={'text': markdown_content}, headers=headers)
 
 if response.status_code == 200:
