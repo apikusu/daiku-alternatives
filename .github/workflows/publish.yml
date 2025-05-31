@@ -24,6 +24,9 @@ jobs:
             - name: Create README 
               run: python create-readme.py
 
+            - name: Install requests pip package
+              run: pip install requests
+
             - name: Create HTML from README
               run: python create-html-from-readme.py
 
