@@ -1,8 +1,8 @@
 # daiku-alternatives
 
-last updated at: `May 28, 2025 21:13 UTC`
+last updated at: `May 31, 2025 11:42 UTC`
 
-total anilist overrides count: `53`
+total anilist overrides count: `55`
 
 total tmdb overrides count: `9`
 
@@ -81,6 +81,10 @@ https://www.imdb.com/title/tt13069540/mediaviewer/rm1435094785/
 ```
 
 ### 102423 - as `We Want to Talk About Kaguya`
+
+* no cover override
+
+### 104217 - as `Wotakoi: Love is Hard for Otaku OVA`
 
 * no cover override
 
@@ -335,6 +339,10 @@ https://ao-buta.com/santa/assets/img/main/visual03_mosaic.png
 ```
 else the title was too long 💀
 ```
+
+### 172463 - as `Jujutsu Kaisen: The Culling Game`
+
+* no cover override
 
 ### 172729 - as `They are Still Being Shaken This Morning`
 
