@@ -1,8 +1,8 @@
 # daiku-alternatives
 
-last updated at: `May 31, 2025 16:27 UTC`
+last updated at: `May 31, 2025 17:07 UTC`
 
-total anilist overrides count: `55`
+total anilist overrides count: `57`
 
 total tmdb overrides count: `9`
 
@@ -120,6 +120,10 @@ cover of the last volume (from mangadex)
   * `large`: [anilist/120377/large.jpg](anilist/120377/large.jpg)
   * `small`: [anilist/120377/small.jpg](anilist/120377/small.jpg)
 * accent color: ![#f9e904](https://singlecolorimage.com/get/f9e904/10x10) `#f9e904`
+
+### 122342 - as `Blue Box`
+
+* no cover override
 
 ### 124080
 
@@ -437,6 +441,10 @@ its writing didn't match the other seasons'
 ```
 again, i don't like full-capital titles
 ```
+
+### 186822 - as `The Guy She Was Interested in Wasn't a Guy at All`
+
+* no cover override
 
 ### 187260 - as `I Want to Love You Till Your Dying Day`
 

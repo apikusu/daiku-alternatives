@@ -119,6 +119,12 @@
       "small": "120377/small.jpg"
     }
   },
+  "122342": {
+    "title": "Blue Box",
+    "airingEpisodesOffset": null,
+    "accentColor": null,
+    "releaseTime": null
+  },
   "124080": {
     "title": null,
     "airingEpisodesOffset": null,
@@ -405,6 +411,12 @@
   },
   "185660": {
     "title": "Dandadan Season 2",
+    "airingEpisodesOffset": null,
+    "accentColor": null,
+    "releaseTime": null
+  },
+  "186822": {
+    "title": "The Guy She Was Interested in Wasn't a Guy at All",
     "airingEpisodesOffset": null,
     "accentColor": null,
     "releaseTime": null
