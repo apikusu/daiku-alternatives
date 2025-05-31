@@ -1,6 +1,6 @@
 # daiku-alternatives
 
-last updated at: `May 31, 2025 11:42 UTC`
+last updated at: `May 31, 2025 16:27 UTC`
 
 total anilist overrides count: `55`
 
@@ -584,3 +584,6 @@ still shit movie tho
 * no cover override
 
 
+
+---
+### made by [apix](https://github.com/apix0n) at [apikusu/daiku-alternatives](https://github.com/apikusu/daiku-alternatives) | this file is auto-generated
