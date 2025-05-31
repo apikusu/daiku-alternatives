@@ -95,6 +95,9 @@ total tmdb overrides count: `{tmdb_overrides_count}`
 ## tmdb overrides
 
 {tmdb_overrides_text}
+
+---
+### made by [apix](https://github.com/apix0n) at [apikusu/daiku-alternatives](https://github.com/apikusu/daiku-alternatives) | this file is auto-generated
 '''
 
 with open('./resized/readme.md', 'w') as f:

@@ -24,6 +24,9 @@ jobs:
             - name: Create README 
               run: python create-readme.py
 
+            - name: Create HTML from README
+              run: python create-html-from-readme.py
+
             - name: Publish to 'alternatives' branch
               uses: peaceiris/actions-gh-pages@v3
               with:
