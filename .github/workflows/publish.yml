@@ -29,6 +29,8 @@ jobs:
 
             - name: Create HTML from README
               run: python create-html-from-readme.py
+              env:
+                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
             - name: Publish to 'alternatives' branch
               uses: peaceiris/actions-gh-pages@v3
