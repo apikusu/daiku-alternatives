@@ -1,8 +1,8 @@
 # daiku-alternatives
 
-last updated at: `May 31, 2025 22:16 UTC`
+last updated at: `June 06, 2025 13:22 UTC`
 
-total anilist overrides count: `57`
+total anilist overrides count: `54`
 
 total tmdb overrides count: `9`
 
@@ -239,10 +239,6 @@ there was a capital letter to "No" and not for the S2 it disturbed me
 
 * no cover override
 
-### 154768 - as `My Dress-Up Darling Season 2`
-
-* no cover override
-
 ### 160651
 
 <img align="right" src="anilist/160651/small.jpg" height="100px">
@@ -317,7 +313,7 @@ custom cover art by me (edit made in like 15min, that's why it's so lowres)
 i don't like full-capital titles
 ```
 
-### 171046 - as `Rascal Does Not Dream of Santa Claus`
+### 171046
 
 <img align="right" src="anilist/171046/small.jpg" height="100px">
 
@@ -368,11 +364,6 @@ cuz the colours weren't bright enough imo + characters too far
 magick .\o-original.jpg -modulate 100,125 -distort SRT '1.2 0' .\original.jpg
 ```
 
-### 176301
-
-* no cover override
-* release time override: `16:15 UTC`
-
 ### 178462
 
 <img align="right" src="anilist/178462/small.jpg" height="100px">
@@ -405,7 +396,7 @@ first ar, seems calmer imo & colours look better
 
 * no cover override
 
-### 181444 - as `The Fragrant Flower Blooms With Dignity`
+### 181444
 
 <img align="right" src="anilist/181444/small.jpg" height="100px">
 
@@ -415,7 +406,11 @@ first ar, seems calmer imo & colours look better
   * `small`: [anilist/181444/small.jpg](anilist/181444/small.jpg)
 * change note:
 ```
-cover art without series name in the middle (using screenshots from the seiyuu pv - https://www.youtube.com/watch?v=DhXMTCRmLsE)
+clean cover + resized to better show kaoruko & rintaro (THEY´RE SO CUTE IM CRYINHG)
+non resized in o-original.jpg
+
+images: https://kaoruhana-anime.com/assets/img/kv/img_kv2.jpg
+https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181444-otw74fBzACfB.jpg (no idea where they managed to get a clean cover but i´m definitely stealing that)
 ```
 
 ### 181641 - as `Alya Sometimes Hides Her Feelings in Russian Season 2`
@@ -432,14 +427,6 @@ cover art without series name in the middle (using screenshots from the seiyuu p
 * change note:
 ```
 its writing didn't match the other seasons'
-```
-
-### 185660 - as `Dandadan Season 2`
-
-* no cover override
-* change note:
-```
-again, i don't like full-capital titles
 ```
 
 ### 186822 - as `The Guy She Was Interested in Wasn't a Guy at All`

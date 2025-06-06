@@ -232,12 +232,6 @@
     "accentColor": null,
     "releaseTime": null
   },
-  "154768": {
-    "title": "My Dress-Up Darling Season 2",
-    "airingEpisodesOffset": null,
-    "accentColor": null,
-    "releaseTime": null
-  },
   "160651": {
     "covers": {
       "medium": "160651/medium.jpg",
@@ -308,10 +302,6 @@
     }
   },
   "171046": {
-    "title": "Rascal Does Not Dream of Santa Claus",
-    "airingEpisodesOffset": null,
-    "accentColor": null,
-    "releaseTime": null,
     "covers": {
       "medium": "171046/medium.jpg",
       "large": "171046/large.jpg",
@@ -347,15 +337,6 @@
       "small": "175443/small.jpg"
     }
   },
-  "176301": {
-    "title": null,
-    "airingEpisodesOffset": null,
-    "accentColor": null,
-    "releaseTime": [
-      16,
-      15
-    ]
-  },
   "178462": {
     "covers": {
       "medium": "178462/medium.jpg",
@@ -381,10 +362,6 @@
     "releaseTime": null
   },
   "181444": {
-    "title": "The Fragrant Flower Blooms With Dignity",
-    "airingEpisodesOffset": null,
-    "accentColor": null,
-    "releaseTime": null,
     "covers": {
       "medium": "181444/medium.jpg",
       "large": "181444/large.jpg",
@@ -405,12 +382,6 @@
   },
   "182587": {
     "title": "Oshi no Ko Season 3",
-    "airingEpisodesOffset": null,
-    "accentColor": null,
-    "releaseTime": null
-  },
-  "185660": {
-    "title": "Dandadan Season 2",
     "airingEpisodesOffset": null,
     "accentColor": null,
     "releaseTime": null
