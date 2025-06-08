@@ -291,7 +291,7 @@
     }
   },
   "171018": {
-    "title": "Dandadan",
+    "title": null,
     "airingEpisodesOffset": null,
     "accentColor": null,
     "releaseTime": null,
@@ -335,13 +335,6 @@
       "medium": "175443/medium.jpg",
       "large": "175443/large.jpg",
       "small": "175443/small.jpg"
-    }
-  },
-  "178462": {
-    "covers": {
-      "medium": "178462/medium.jpg",
-      "large": "178462/large.jpg",
-      "small": "178462/small.jpg"
     }
   },
   "179696": {
