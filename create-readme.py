@@ -1,25 +1,23 @@
 import json
 import os
 from datetime import datetime, timezone
+from query_anilist import query_anilist
 
-with open(f'./resized/anilist/overrides.json') as f:
+with open(f'./resized/anilist/overrides.json', encoding='utf-8') as f:
     file = json.load(f)
+    anime_data = query_anilist(list(file.keys()))
 
 anime_overrides_text = ''''''
 tmdb_overrides_text = ''''''
 
 for anime_id in file.keys():
+    anime_id_int = int(anime_id)  # Ensure the key is an integer
     anime_overrides_count = len(file)
-    title = file[anime_id].get('title')
-    if title:
-        text = f'''### {anime_id} - as `{title}`
-
-'''
-    else:
-        text = f'''### {anime_id}
+    text = f'''### {anime_data[anime_id_int]["type"]} [`{anime_id}`]({anime_data[anime_id_int]["url"]}) {anime_data[anime_id_int]["title"]}
 
 '''
     covers = file[anime_id].get('covers', {})
+    title = file[anime_id].get('title')
     airingEpisodesOffset = file[anime_id].get('airingEpisodesOffset', None)
     accentColor = file[anime_id].get("accentColor", None)
     releaseTime = file[anime_id].get("releaseTime", None)
@@ -28,8 +26,9 @@ for anime_id in file.keys():
         text += '* cover:\n'
         for key, value in covers.items():
             text += f'  * `{key}`: [anilist/{value}](anilist/{value})\n'
-    else:
-        text += '* no cover override\n'
+
+    if title:
+        text += f'* title: `{title}`\n'
 
     if airingEpisodesOffset:
         text += f'* airing episodes offset: `{int(airingEpisodesOffset):+}`\n' # :+ so it always prints the + sign
@@ -42,13 +41,13 @@ for anime_id in file.keys():
 
     readme_path = f'./anilist/{anime_id}/readme.txt'
     if os.path.exists(readme_path):
-        with open(readme_path, 'r') as readme_file:
+        with open(readme_path, 'r', encoding='utf-8') as readme_file:
             readme_content = readme_file.read().strip()
             text += f'* change note:\n```\n{readme_content}\n```\n'
     
     anime_overrides_text += text + f'\n' # break a line after each override
 
-with open(f'./resized/tmdb/overrides.json') as f:
+with open(f'./resized/tmdb/overrides.json', encoding='utf-8') as f:
     file = json.load(f)
 
 for tmdb_id in file.keys():
@@ -74,7 +73,7 @@ for tmdb_id in file.keys():
     
     readme_path = f'./tmdb/{tmdb_id}/readme.txt'
     if os.path.exists(readme_path):
-        with open(readme_path, 'r') as readme_file:
+        with open(readme_path, 'r', encoding='utf-8') as readme_file:
             readme_content = readme_file.read().strip()
             text += f'* change note:\n```\n{readme_content}\n```\n'
     
@@ -84,15 +83,11 @@ mdtext = f'''# daiku-alternatives
 
 last updated at: `{datetime.now(timezone.utc).strftime('%B %d, %Y %H:%M')} UTC`
 
-total anilist overrides count: `{anime_overrides_count}`
-
-total tmdb overrides count: `{tmdb_overrides_count}`
-
-## anilist overrides
+## AniList overrides ({anime_overrides_count})
 
 {anime_overrides_text}
 
-## tmdb overrides
+## TMDB overrides ({tmdb_overrides_count})
 
 {tmdb_overrides_text}
 
@@ -100,5 +95,5 @@ total tmdb overrides count: `{tmdb_overrides_count}`
 ### made by [apix](https://github.com/apix0n) at [apikusu/daiku-alternatives](https://github.com/apikusu/daiku-alternatives) | this file is auto-generated
 '''
 
-with open('./resized/readme.md', 'w') as f:
+with open('./resized/readme.md', 'w', encoding="utf-8") as f:
     f.write(mdtext)

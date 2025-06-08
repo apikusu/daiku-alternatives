@@ -84,7 +84,7 @@ def build_metadata():
                     covers = None
                 info_path = f'{inputdir}/{id}/infos.json'
                 if os.path.exists(info_path):
-                    with open(info_path, 'r') as info_file:
+                    with open(info_path, 'r', encoding='utf-8') as info_file:
                         info = json.load(info_file)
                         data[id]["title"] = info.get('title')
                         data[id]["airingEpisodesOffset"] = info.get("airingEpisodesOffset")
@@ -92,7 +92,7 @@ def build_metadata():
                         data[id]["releaseTime"] = info.get("releaseTimeUTC")
                 if covers:
                     data[id]["covers"] = covers
-        with open(f'{outdir}/overrides.json', 'w') as f:
+        with open(f'{outdir}/overrides.json', 'w', encoding='utf-8') as f:
             json.dump({k: data[k] for k in sorted(data, key=int)}, f, indent=2)
 
 if __name__ == "__main__":
