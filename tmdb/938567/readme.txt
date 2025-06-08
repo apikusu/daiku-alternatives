@@ -1,1 +1,1 @@
-ar from the movie's website, we couldn't see the characters so bad
+art from the movie's website, cuz we couldn't see the characters on the other one
