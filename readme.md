@@ -1,8 +1,8 @@
 # daiku-alternatives
 
-last updated at: `June 08, 2025 12:44 UTC`
+last updated at: `June 21, 2025 01:19 UTC`
 
-## AniList overrides (53)
+## AniList overrides (52)
 
 ###  [`66`](https://anilist.co/anime/66) Azumanga Daioh
 
@@ -307,25 +307,6 @@ custom cover art by me (edit made in like 15min, that's why it's so lowres)
   * `large`: [anilist/171018/large.jpg](anilist/171018/large.jpg)
   * `small`: [anilist/171018/small.jpg](anilist/171018/small.jpg)
 
-###  [`171046`](https://anilist.co/anime/171046) Rascal Does Not Dream of Santa Claus
-
-<img align="right" src="anilist/171046/small.jpg" height="100px">
-
-* cover:
-  * `medium`: [anilist/171046/medium.jpg](anilist/171046/medium.jpg)
-  * `large`: [anilist/171046/large.jpg](anilist/171046/large.jpg)
-  * `small`: [anilist/171046/small.jpg](anilist/171046/small.jpg)
-* change note:
-```
-3rd cover art, made with assets from https://ao-buta.com/santa/
-
-https://ao-buta.com/santa/assets/img/main/visual03_bg.jpg
-https://ao-buta.com/santa/assets/img/main/visual03_chara1.png
-https://ao-buta.com/santa/assets/img/main/visual03_chara2.png
-https://ao-buta.com/santa/assets/img/main/visual03_ginkgo.png
-https://ao-buta.com/santa/assets/img/main/visual03_mosaic.png
-```
-
 ###  [`171457`](https://anilist.co/anime/171457) Makeine: Too Many Losing Heroines!
 
 * title: `Too Many Losing Heroines!`
@@ -338,7 +319,7 @@ else the title was too long 💀
 
 * title: `Jujutsu Kaisen: The Culling Game`
 
-### MANGA [`172729`](https://anilist.co/manga/172729) Kesa mo Yuraretemasu
+### MANGA [`172729`](https://anilist.co/manga/172729) They Are Still Being Shaken This Morning
 
 * title: `They are Still Being Shaken This Morning`
 
