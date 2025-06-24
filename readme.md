@@ -1,6 +1,6 @@
 # daiku-alternatives
 
-last updated at: `June 24, 2025 16:28 UTC`
+last updated at: `June 24, 2025 16:30 UTC`
 
 ## AniList overrides (54)
 
@@ -164,6 +164,11 @@ i don't like it, as it doesn't display the variety of characters in the anime
   * `large`: [anilist/129488/large.jpg](anilist/129488/large.jpg)
   * `small`: [anilist/129488/small.jpg](anilist/129488/small.jpg)
 * title: `Song of the Jellyfish`
+* change note:
+```
+cover from mangadex
+https://mangadex.org/covers/a1c2cd9c-9e58-46ad-adb5-6ce0b354f23f/c3a90dd2-2ae1-4cea-887d-866433d57edc.png
+```
 
 ###  [`130003`](https://anilist.co/anime/130003) BOCCHI THE ROCK!
 
