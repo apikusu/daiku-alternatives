@@ -159,6 +159,17 @@
     "accentColor": null,
     "releaseTime": null
   },
+  "129488": {
+    "title": "Song of the Jellyfish",
+    "airingEpisodesOffset": null,
+    "accentColor": null,
+    "releaseTime": null,
+    "covers": {
+      "medium": "129488/medium.jpg",
+      "large": "129488/large.jpg",
+      "small": "129488/small.jpg"
+    }
+  },
   "130003": {
     "title": "Bocchi the Rock!",
     "airingEpisodesOffset": null,
@@ -228,6 +239,12 @@
   },
   "153520": {
     "title": "[Oshi no Ko]: Special Chapter (90.5)",
+    "airingEpisodesOffset": null,
+    "accentColor": null,
+    "releaseTime": null
+  },
+  "158750": {
+    "title": "Hina and Bambi",
     "airingEpisodesOffset": null,
     "accentColor": null,
     "releaseTime": null

@@ -1,8 +1,8 @@
 # daiku-alternatives
 
-last updated at: `June 21, 2025 01:19 UTC`
+last updated at: `June 24, 2025 16:28 UTC`
 
-## AniList overrides (52)
+## AniList overrides (54)
 
 ###  [`66`](https://anilist.co/anime/66) Azumanga Daioh
 
@@ -155,6 +155,16 @@ i don't like it, as it doesn't display the variety of characters in the anime
 
 * title: `My Teen Romantic Comedy SNAFU Climax! OVA`
 
+### MANGA [`129488`](https://anilist.co/manga/129488) Kurage no Uta
+
+<img align="right" src="anilist/129488/small.jpg" height="100px">
+
+* cover:
+  * `medium`: [anilist/129488/medium.jpg](anilist/129488/medium.jpg)
+  * `large`: [anilist/129488/large.jpg](anilist/129488/large.jpg)
+  * `small`: [anilist/129488/small.jpg](anilist/129488/small.jpg)
+* title: `Song of the Jellyfish`
+
 ###  [`130003`](https://anilist.co/anime/130003) BOCCHI THE ROCK!
 
 <img align="right" src="anilist/130003/small.jpg" height="100px">
@@ -235,6 +245,10 @@ there was a capital letter to "No" and not for the S2 it disturbed me
 ### MANGA [`153520`](https://anilist.co/manga/153520) [Oshi no Ko]: Tokubetsu-hen
 
 * title: `[Oshi no Ko]: Special Chapter (90.5)`
+
+### MANGA [`158750`](https://anilist.co/manga/158750) Hina to Bambi
+
+* title: `Hina and Bambi`
 
 ### MANGA [`160651`](https://anilist.co/manga/160651) Futarijime Romantic
 
