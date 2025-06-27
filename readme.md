@@ -1,8 +1,8 @@
 # daiku-alternatives
 
-last updated at: `June 27, 2025 19:53 UTC`
+last updated at: `June 27, 2025 20:02 UTC`
 
-## AniList overrides (55)
+## AniList overrides (56)
 
 ###  [`66`](https://anilist.co/anime/66) Azumanga Daioh
 
@@ -469,6 +469,10 @@ https://x.com/ArmandoValores/status/1928851466854515121
 ###  [`190704`](https://anilist.co/anime/190704) Kanan-sama wa Akumade Choroi
 
 * title: `Mistress Kanan is Devilishly Easy`
+
+###  [`194393`](https://anilist.co/anime/194393) Aishiteru Game wo Owarasetai
+
+* title: `I Want to End This Love Game`
 
 
 
