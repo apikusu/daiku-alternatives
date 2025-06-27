@@ -1,8 +1,8 @@
 # daiku-alternatives
 
-last updated at: `June 24, 2025 16:30 UTC`
+last updated at: `June 27, 2025 19:53 UTC`
 
-## AniList overrides (54)
+## AniList overrides (55)
 
 ###  [`66`](https://anilist.co/anime/66) Azumanga Daioh
 
@@ -407,6 +407,20 @@ https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181444-otw74fBzA
 * change note:
 ```
 its writing didn't match the other seasons'
+```
+
+###  [`185407`](https://anilist.co/anime/185407) Takopi's Original Sin
+
+<img align="right" src="anilist/185407/small.jpg" height="100px">
+
+* cover:
+  * `medium`: [anilist/185407/medium.jpg](anilist/185407/medium.jpg)
+  * `large`: [anilist/185407/large.jpg](anilist/185407/large.jpg)
+  * `small`: [anilist/185407/small.jpg](anilist/185407/small.jpg)
+* change note:
+```
+resized version of the smartphone visual
+https://www.tbs.co.jp/anime/takopi_project/img/sp_visual.jpg
 ```
 
 ###  [`186822`](https://anilist.co/anime/186822) Ki ni Natteru Hito ga Otoko Janakatta
