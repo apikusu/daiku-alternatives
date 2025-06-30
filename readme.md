@@ -1,8 +1,8 @@
 # daiku-alternatives
 
-last updated at: `June 27, 2025 20:02 UTC`
+last updated at: `June 30, 2025 08:58 UTC`
 
-## AniList overrides (56)
+## AniList overrides (57)
 
 ###  [`66`](https://anilist.co/anime/66) Azumanga Daioh
 
@@ -409,6 +409,10 @@ https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181444-otw74fBzA
 its writing didn't match the other seasons'
 ```
 
+###  [`183385`](https://anilist.co/anime/183385) Watashi wo Tabetai, Hitodenashi
+
+* title: `This Monster Wants to Eat Me`
+
 ###  [`185407`](https://anilist.co/anime/185407) Takopi's Original Sin
 
 <img align="right" src="anilist/185407/small.jpg" height="100px">
@@ -476,7 +480,7 @@ https://x.com/ArmandoValores/status/1928851466854515121
 
 
 
-## TMDB overrides (9)
+## TMDB overrides (10)
 
 ### 550
 
@@ -489,6 +493,20 @@ https://x.com/ArmandoValores/status/1928851466854515121
 * change note:
 ```
 too much change on the tmdb page
+```
+
+### 120811 - as `K-ON! The Movie`
+
+<img align="right" src="tmdb/120811/small.jpg" height="100px">
+
+* cover:
+  * `medium`: [tmdb/120811/medium.jpg](tmdb/120811/medium.jpg)
+  * `large`: [tmdb/120811/large.jpg](tmdb/120811/large.jpg)
+  * `small`: [tmdb/120811/small.jpg](tmdb/120811/small.jpg)
+* change note:
+```
+from anilist entry 
+https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9617-Z2RA1TIkcNEg.png
 ```
 
 ### 667520

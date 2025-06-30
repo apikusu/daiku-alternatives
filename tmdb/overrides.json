@@ -10,6 +10,17 @@
       "small": "550/small.jpg"
     }
   },
+  "120811": {
+    "title": "K-ON! The Movie",
+    "airingEpisodesOffset": null,
+    "accentColor": null,
+    "releaseTime": null,
+    "covers": {
+      "medium": "120811/medium.jpg",
+      "large": "120811/large.jpg",
+      "small": "120811/small.jpg"
+    }
+  },
   "667520": {
     "title": null,
     "airingEpisodesOffset": null,
