@@ -1,6 +1,6 @@
 # daiku-alternatives
 
-last updated at: `June 30, 2025 08:58 UTC`
+last updated at: `July 03, 2025 18:49 UTC`
 
 ## AniList overrides (57)
 
