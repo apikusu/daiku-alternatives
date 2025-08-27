@@ -1,6 +1,6 @@
 # daiku-alternatives
 
-last updated at: `July 03, 2025 18:49 UTC`
+last updated at: `August 27, 2025 00:13 UTC`
 
 ## AniList overrides (57)
 
@@ -372,7 +372,7 @@ first cover art, seems calmer imo & colours look better
 + we didn't see most of the characters anyway
 ```
 
-###  [`180082`](https://anilist.co/anime/180082) Chitose-kun wa Ramune Bin no Naka
+###  [`180082`](https://anilist.co/anime/180082) Chitose Is in the Ramune Bottle
 
 * title: `Chitose Is in the Ramune Bottle`
 
@@ -397,7 +397,7 @@ https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181444-otw74fBzA
 
 * title: `Alya Sometimes Hides Her Feelings in Russian Season 2`
 
-###  [`182255`](https://anilist.co/anime/182255) Sousou no Frieren 2nd Season
+###  [`182255`](https://anilist.co/anime/182255) Frieren: Beyond Journey’s End Season 2
 
 * title: `Frieren: Beyond Journey’s End Season 2`
 
@@ -409,7 +409,7 @@ https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181444-otw74fBzA
 its writing didn't match the other seasons'
 ```
 
-###  [`183385`](https://anilist.co/anime/183385) Watashi wo Tabetai, Hitodenashi
+###  [`183385`](https://anilist.co/anime/183385) This Monster Wants to Eat Me
 
 * title: `This Monster Wants to Eat Me`
 
