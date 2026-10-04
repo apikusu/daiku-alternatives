@@ -1,8 +1,8 @@
 # daiku-alternatives
 
-last updated at: `August 27, 2025 00:13 UTC`
+last updated at: `October 04, 2026 11:53 UTC`
 
-## AniList overrides (57)
+## AniList overrides (27)
 
 ###  [`66`](https://anilist.co/anime/66) Azumanga Daioh
 
@@ -43,20 +43,6 @@ i like the star
 
 * title: `Blue Spring Ride`
 
-### MANGA [`72451`](https://anilist.co/manga/72451) Horimiya
-
-<img align="right" src="anilist/72451/small.jpg" height="100px">
-
-* cover:
-  * `medium`: [anilist/72451/medium.jpg](anilist/72451/medium.jpg)
-  * `large`: [anilist/72451/large.jpg](anilist/72451/large.jpg)
-  * `small`: [anilist/72451/small.jpg](anilist/72451/small.jpg)
-* accent color: ![#ff548e](https://singlecolorimage.com/get/ff548e/10x10) `#ff548e`
-* change note:
-```
-cover of the 16th volume, from mangadex
-```
-
 ###  [`98033`](https://anilist.co/anime/98033) Kamisama Hajimemashita: Kamisama, Shiawase ni Naru
 
 * title: `Kamisama Kiss: The God Will Be Happy`
@@ -83,40 +69,6 @@ https://www.imdb.com/title/tt13069540/mediaviewer/rm1435094785/
 ###  [`104217`](https://anilist.co/anime/104217) Wotaku ni Koi wa Muzukashii OVA
 
 * title: `Wotakoi: Love is Hard for Otaku OVA`
-
-###  [`105334`](https://anilist.co/anime/105334) Fruits Basket (2019)
-
-<img align="right" src="anilist/105334/small.jpg" height="100px">
-
-* cover:
-  * `medium`: [anilist/105334/medium.jpg](anilist/105334/medium.jpg)
-  * `large`: [anilist/105334/large.jpg](anilist/105334/large.jpg)
-  * `small`: [anilist/105334/small.jpg](anilist/105334/small.jpg)
-* title: `Fruits Basket`
-* accent color: ![#eca46c](https://singlecolorimage.com/get/eca46c/10x10) `#eca46c`
-
-### MANGA [`117195`](https://anilist.co/manga/117195) [Oshi no Ko]
-
-<img align="right" src="anilist/117195/small.jpg" height="100px">
-
-* cover:
-  * `medium`: [anilist/117195/medium.jpg](anilist/117195/medium.jpg)
-  * `large`: [anilist/117195/large.jpg](anilist/117195/large.jpg)
-  * `small`: [anilist/117195/small.jpg](anilist/117195/small.jpg)
-* change note:
-```
-cover of the last volume (from mangadex)
-```
-
-###  [`120377`](https://anilist.co/anime/120377) Cyberpunk: Edgerunners
-
-<img align="right" src="anilist/120377/small.jpg" height="100px">
-
-* cover:
-  * `medium`: [anilist/120377/medium.jpg](anilist/120377/medium.jpg)
-  * `large`: [anilist/120377/large.jpg](anilist/120377/large.jpg)
-  * `small`: [anilist/120377/small.jpg](anilist/120377/small.jpg)
-* accent color: ![#f9e904](https://singlecolorimage.com/get/f9e904/10x10) `#f9e904`
 
 ### MANGA [`122342`](https://anilist.co/manga/122342) Ao no Hako
 
@@ -172,47 +124,10 @@ https://mangadex.org/covers/a1c2cd9c-9e58-46ad-adb5-6ce0b354f23f/c3a90dd2-2ae1-4
 
 ###  [`130003`](https://anilist.co/anime/130003) BOCCHI THE ROCK!
 
-<img align="right" src="anilist/130003/small.jpg" height="100px">
-
-* cover:
-  * `medium`: [anilist/130003/medium.jpg](anilist/130003/medium.jpg)
-  * `large`: [anilist/130003/large.jpg](anilist/130003/large.jpg)
-  * `small`: [anilist/130003/small.jpg](anilist/130003/small.jpg)
 * title: `Bocchi the Rock!`
 * change note:
 ```
-replaced poster cuz we didn't see the band well enough
-cover art comes from anime re-release as movie 'Bocchi the Rock! Re:'
 title: i hate full-capital titles
-```
-
-### MANGA [`132029`](https://anilist.co/manga/132029) Dandadan
-
-<img align="right" src="anilist/132029/small.jpg" height="100px">
-
-* cover:
-  * `medium`: [anilist/132029/medium.jpg](anilist/132029/medium.jpg)
-  * `large`: [anilist/132029/large.jpg](anilist/132029/large.jpg)
-  * `small`: [anilist/132029/small.jpg](anilist/132029/small.jpg)
-* accent color: ![#0de4d0](https://singlecolorimage.com/get/0de4d0/10x10) `#0de4d0`
-* change note:
-```
-2de volume cover from mangadex
-```
-
-### MANGA [`132182`](https://anilist.co/manga/132182) Blue Box
-
-<img align="right" src="anilist/132182/small.jpg" height="100px">
-
-* cover:
-  * `medium`: [anilist/132182/medium.jpg](anilist/132182/medium.jpg)
-  * `large`: [anilist/132182/large.jpg](anilist/132182/large.jpg)
-  * `small`: [anilist/132182/small.jpg](anilist/132182/small.jpg)
-* accent color: ![#2b89ec](https://singlecolorimage.com/get/2b89ec/10x10) `#2b89ec`
-* change note:
-```
-cover of the 13th volume of the manga
-comes from mangadex
 ```
 
 ### MANGA [`140475`](https://anilist.co/manga/140475) The Fragrant Flower Blooms With Dignity
@@ -229,24 +144,6 @@ comes from mangadex
   * `small`: [anilist/143653/small.jpg](anilist/143653/small.jpg)
 * accent color: ![#8b35c6](https://singlecolorimage.com/get/8b35c6/10x10) `#8b35c6`
 
-### MANGA [`149756`](https://anilist.co/manga/149756) Our Secret Alliance
-
-<img align="right" src="anilist/149756/small.jpg" height="100px">
-
-* cover:
-  * `medium`: [anilist/149756/medium.jpg](anilist/149756/medium.jpg)
-  * `large`: [anilist/149756/large.jpg](anilist/149756/large.jpg)
-  * `small`: [anilist/149756/small.jpg](anilist/149756/small.jpg)
-* accent color: ![#ea8889](https://singlecolorimage.com/get/ea8889/10x10) `#ea8889`
-
-###  [`150672`](https://anilist.co/anime/150672) Oshi No Ko
-
-* title: `Oshi no Ko`
-* change note:
-```
-there was a capital letter to "No" and not for the S2 it disturbed me
-```
-
 ### MANGA [`153520`](https://anilist.co/manga/153520) [Oshi no Ko]: Tokubetsu-hen
 
 * title: `[Oshi no Ko]: Special Chapter (90.5)`
@@ -255,38 +152,11 @@ there was a capital letter to "No" and not for the S2 it disturbed me
 
 * title: `Hina and Bambi`
 
-### MANGA [`160651`](https://anilist.co/manga/160651) Futarijime Romantic
-
-<img align="right" src="anilist/160651/small.jpg" height="100px">
-
-* cover:
-  * `medium`: [anilist/160651/medium.jpg](anilist/160651/medium.jpg)
-  * `large`: [anilist/160651/large.jpg](anilist/160651/large.jpg)
-  * `small`: [anilist/160651/small.jpg](anilist/160651/small.jpg)
-
-###  [`162804`](https://anilist.co/anime/162804) Alya Sometimes Hides Her Feelings in Russian
-
-<img align="right" src="anilist/162804/small.jpg" height="100px">
-
-* cover:
-  * `medium`: [anilist/162804/medium.jpg](anilist/162804/medium.jpg)
-  * `large`: [anilist/162804/large.jpg](anilist/162804/large.jpg)
-  * `small`: [anilist/162804/small.jpg](anilist/162804/small.jpg)
-* accent color: ![#941b3f](https://singlecolorimage.com/get/941b3f/10x10) `#941b3f`
-* change note:
-```
-colours look better with this one than with the anilist/main cover
-```
-
-###  [`163327`](https://anilist.co/anime/163327) Go-toubun no Hanayome∽
+###  [`163327`](https://anilist.co/anime/163327) The Quintessential Quintuplets Specials
 
 * title: `The Quintessential Quintuplets~`
 
-###  [`169580`](https://anilist.co/anime/169580) Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta
-
-* title: `I Became Friends with the Second Cutest Girl in My Class`
-
-###  [`170019`](https://anilist.co/anime/170019) Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season
+###  [`170019`](https://anilist.co/anime/170019) The Angel Next Door Spoils Me Rotten2
 
 * title: `The Angel Next Door Spoils Me Rotten Season 2`
 
@@ -304,60 +174,6 @@ colours look better with this one than with the anilist/main cover
 custom cover art by me (edit made in like 15min, that's why it's so lowres)
 ```
 
-###  [`170942`](https://anilist.co/anime/170942) Blue Box
-
-<img align="right" src="anilist/170942/small.jpg" height="100px">
-
-* cover:
-  * `medium`: [anilist/170942/medium.jpg](anilist/170942/medium.jpg)
-  * `large`: [anilist/170942/large.jpg](anilist/170942/large.jpg)
-  * `small`: [anilist/170942/small.jpg](anilist/170942/small.jpg)
-* change note:
-```
-2nd cover art of the anime
-```
-
-###  [`171018`](https://anilist.co/anime/171018) DAN DA DAN
-
-<img align="right" src="anilist/171018/small.jpg" height="100px">
-
-* cover:
-  * `medium`: [anilist/171018/medium.jpg](anilist/171018/medium.jpg)
-  * `large`: [anilist/171018/large.jpg](anilist/171018/large.jpg)
-  * `small`: [anilist/171018/small.jpg](anilist/171018/small.jpg)
-
-###  [`171457`](https://anilist.co/anime/171457) Makeine: Too Many Losing Heroines!
-
-* title: `Too Many Losing Heroines!`
-* change note:
-```
-else the title was too long 💀
-```
-
-###  [`172463`](https://anilist.co/anime/172463) Jujutsu Kaisen: Shimetsu Kaiyuu
-
-* title: `Jujutsu Kaisen: The Culling Game`
-
-### MANGA [`172729`](https://anilist.co/manga/172729) They Are Still Being Shaken This Morning
-
-* title: `They are Still Being Shaken This Morning`
-
-###  [`175443`](https://anilist.co/anime/175443) Honey Lemon Soda
-
-<img align="right" src="anilist/175443/small.jpg" height="100px">
-
-* cover:
-  * `medium`: [anilist/175443/medium.jpg](anilist/175443/medium.jpg)
-  * `large`: [anilist/175443/large.jpg](anilist/175443/large.jpg)
-  * `small`: [anilist/175443/small.jpg](anilist/175443/small.jpg)
-* change note:
-```
-original image (o-original.jpg) oversaturated by 125% (saturate(1.25) in css filter terms) and zoomed in by 120% (background-size: 1.20)
-cuz the colours weren't bright enough imo + characters too far
-
-magick .\o-original.jpg -modulate 100,125 -distort SRT '1.2 0' .\original.jpg
-```
-
 ###  [`179696`](https://anilist.co/anime/179696) I Have a Crush at Work
 
 <img align="right" src="anilist/179696/small.jpg" height="100px">
@@ -371,10 +187,6 @@ magick .\o-original.jpg -modulate 100,125 -distort SRT '1.2 0' .\original.jpg
 first cover art, seems calmer imo & colours look better
 + we didn't see most of the characters anyway
 ```
-
-###  [`180082`](https://anilist.co/anime/180082) Chitose Is in the Ramune Bottle
-
-* title: `Chitose Is in the Ramune Bottle`
 
 ###  [`181444`](https://anilist.co/anime/181444) The Fragrant Flower Blooms With Dignity
 
@@ -392,91 +204,6 @@ non resized in o-original.jpg
 images: https://kaoruhana-anime.com/assets/img/kv/img_kv2.jpg
 https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181444-otw74fBzACfB.jpg (no idea where they managed to get a clean cover but i´m definitely stealing that)
 ```
-
-###  [`181641`](https://anilist.co/anime/181641) Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san Season 2
-
-* title: `Alya Sometimes Hides Her Feelings in Russian Season 2`
-
-###  [`182255`](https://anilist.co/anime/182255) Frieren: Beyond Journey’s End Season 2
-
-* title: `Frieren: Beyond Journey’s End Season 2`
-
-###  [`182587`](https://anilist.co/anime/182587) [Oshi no Ko] 3rd Season
-
-* title: `Oshi no Ko Season 3`
-* change note:
-```
-its writing didn't match the other seasons'
-```
-
-###  [`183385`](https://anilist.co/anime/183385) This Monster Wants to Eat Me
-
-* title: `This Monster Wants to Eat Me`
-
-###  [`185407`](https://anilist.co/anime/185407) Takopi's Original Sin
-
-<img align="right" src="anilist/185407/small.jpg" height="100px">
-
-* cover:
-  * `medium`: [anilist/185407/medium.jpg](anilist/185407/medium.jpg)
-  * `large`: [anilist/185407/large.jpg](anilist/185407/large.jpg)
-  * `small`: [anilist/185407/small.jpg](anilist/185407/small.jpg)
-* change note:
-```
-resized version of the smartphone visual
-https://www.tbs.co.jp/anime/takopi_project/img/sp_visual.jpg
-```
-
-###  [`186822`](https://anilist.co/anime/186822) Ki ni Natteru Hito ga Otoko Janakatta
-
-* title: `The Guy She Was Interested in Wasn't a Guy at All`
-
-###  [`187260`](https://anilist.co/anime/187260) Kimi ga Shinu made Koi wo Shitai
-
-* title: `I Want to Love You Till Your Dying Day`
-
-###  [`189046`](https://anilist.co/anime/189046) Re:Zero kara Hajimeru Isekai Seikatsu 4th Season
-
-* title: `Re:ZERO -Starting Life in Another World- Season 4`
-
-###  [`189123`](https://anilist.co/anime/189123) Ao no Hako 2nd Season
-
-<img align="right" src="anilist/189123/small.jpg" height="100px">
-
-* cover:
-  * `medium`: [anilist/189123/medium.jpg](anilist/189123/medium.jpg)
-  * `large`: [anilist/189123/large.jpg](anilist/189123/large.jpg)
-  * `small`: [anilist/189123/small.jpg](anilist/189123/small.jpg)
-* title: `Blue Box Season 2`
-* change note:
-```
-season 1 bluray vol 2 cover, will remove when actual art is released
-(the anilist cover is just a white screen with the logo)
-```
-
-###  [`189796`](https://anilist.co/anime/189796) Make Heroine ga Oosugiru! 2nd Season
-
-<img align="right" src="anilist/189796/small.jpg" height="100px">
-
-* cover:
-  * `medium`: [anilist/189796/medium.jpg](anilist/189796/medium.jpg)
-  * `large`: [anilist/189796/large.jpg](anilist/189796/large.jpg)
-  * `small`: [anilist/189796/small.jpg](anilist/189796/small.jpg)
-* title: `Too Many Losing Heroines! Season 2`
-* change note:
-```
-will remove when actual art is released
-https://x.com/ArmandoValores/status/1928851466854515121
-(the anilist cover is just a white screen with the logo)
-```
-
-###  [`190704`](https://anilist.co/anime/190704) Kanan-sama wa Akumade Choroi
-
-* title: `Mistress Kanan is Devilishly Easy`
-
-###  [`194393`](https://anilist.co/anime/194393) Aishiteru Game wo Owarasetai
-
-* title: `I Want to End This Love Game`
 
 
 

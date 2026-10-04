@@ -46,17 +46,6 @@
     "accentColor": null,
     "releaseTime": null
   },
-  "72451": {
-    "title": null,
-    "airingEpisodesOffset": null,
-    "accentColor": "#ff548e",
-    "releaseTime": null,
-    "covers": {
-      "medium": "72451/medium.jpg",
-      "large": "72451/large.jpg",
-      "small": "72451/small.jpg"
-    }
-  },
   "98033": {
     "title": "Kamisama Kiss: The God Will Be Happy",
     "airingEpisodesOffset": null,
@@ -85,39 +74,6 @@
     "airingEpisodesOffset": null,
     "accentColor": null,
     "releaseTime": null
-  },
-  "105334": {
-    "title": "Fruits Basket",
-    "airingEpisodesOffset": null,
-    "accentColor": "#eca46c",
-    "releaseTime": null,
-    "covers": {
-      "medium": "105334/medium.jpg",
-      "large": "105334/large.jpg",
-      "small": "105334/small.jpg"
-    }
-  },
-  "117195": {
-    "title": null,
-    "airingEpisodesOffset": null,
-    "accentColor": null,
-    "releaseTime": null,
-    "covers": {
-      "medium": "117195/medium.jpg",
-      "large": "117195/large.jpg",
-      "small": "117195/small.jpg"
-    }
-  },
-  "120377": {
-    "title": null,
-    "airingEpisodesOffset": null,
-    "accentColor": "#f9e904",
-    "releaseTime": null,
-    "covers": {
-      "medium": "120377/medium.jpg",
-      "large": "120377/large.jpg",
-      "small": "120377/small.jpg"
-    }
   },
   "122342": {
     "title": "Blue Box",
@@ -174,34 +130,7 @@
     "title": "Bocchi the Rock!",
     "airingEpisodesOffset": null,
     "accentColor": null,
-    "releaseTime": null,
-    "covers": {
-      "medium": "130003/medium.jpg",
-      "large": "130003/large.jpg",
-      "small": "130003/small.jpg"
-    }
-  },
-  "132029": {
-    "title": null,
-    "airingEpisodesOffset": null,
-    "accentColor": "#0de4d0",
-    "releaseTime": null,
-    "covers": {
-      "medium": "132029/medium.jpg",
-      "large": "132029/large.jpg",
-      "small": "132029/small.jpg"
-    }
-  },
-  "132182": {
-    "title": null,
-    "airingEpisodesOffset": null,
-    "accentColor": "#2b89ec",
-    "releaseTime": null,
-    "covers": {
-      "medium": "132182/medium.jpg",
-      "large": "132182/large.jpg",
-      "small": "132182/small.jpg"
-    }
+    "releaseTime": null
   },
   "140475": {
     "title": null,
@@ -220,23 +149,6 @@
       "small": "143653/small.jpg"
     }
   },
-  "149756": {
-    "title": null,
-    "airingEpisodesOffset": null,
-    "accentColor": "#ea8889",
-    "releaseTime": null,
-    "covers": {
-      "medium": "149756/medium.jpg",
-      "large": "149756/large.jpg",
-      "small": "149756/small.jpg"
-    }
-  },
-  "150672": {
-    "title": "Oshi no Ko",
-    "airingEpisodesOffset": null,
-    "accentColor": null,
-    "releaseTime": null
-  },
   "153520": {
     "title": "[Oshi no Ko]: Special Chapter (90.5)",
     "airingEpisodesOffset": null,
@@ -249,32 +161,8 @@
     "accentColor": null,
     "releaseTime": null
   },
-  "160651": {
-    "covers": {
-      "medium": "160651/medium.jpg",
-      "large": "160651/large.jpg",
-      "small": "160651/small.jpg"
-    }
-  },
-  "162804": {
-    "title": null,
-    "airingEpisodesOffset": null,
-    "accentColor": "#941b3f",
-    "releaseTime": null,
-    "covers": {
-      "medium": "162804/medium.jpg",
-      "large": "162804/large.jpg",
-      "small": "162804/small.jpg"
-    }
-  },
   "163327": {
     "title": "The Quintessential Quintuplets~",
-    "airingEpisodesOffset": null,
-    "accentColor": null,
-    "releaseTime": null
-  },
-  "169580": {
-    "title": "I Became Friends with the Second Cutest Girl in My Class",
     "airingEpisodesOffset": null,
     "accentColor": null,
     "releaseTime": null
@@ -296,57 +184,6 @@
       "small": "170221/small.jpg"
     }
   },
-  "170942": {
-    "title": null,
-    "airingEpisodesOffset": null,
-    "accentColor": null,
-    "releaseTime": null,
-    "covers": {
-      "medium": "170942/medium.jpg",
-      "large": "170942/large.jpg",
-      "small": "170942/small.jpg"
-    }
-  },
-  "171018": {
-    "title": null,
-    "airingEpisodesOffset": null,
-    "accentColor": null,
-    "releaseTime": null,
-    "covers": {
-      "medium": "171018/medium.jpg",
-      "large": "171018/large.jpg",
-      "small": "171018/small.jpg"
-    }
-  },
-  "171457": {
-    "title": "Too Many Losing Heroines!",
-    "airingEpisodesOffset": null,
-    "accentColor": null,
-    "releaseTime": null
-  },
-  "172463": {
-    "title": "Jujutsu Kaisen: The Culling Game",
-    "airingEpisodesOffset": null,
-    "accentColor": null,
-    "releaseTime": null
-  },
-  "172729": {
-    "title": "They are Still Being Shaken This Morning",
-    "airingEpisodesOffset": null,
-    "accentColor": null,
-    "releaseTime": null
-  },
-  "175443": {
-    "title": null,
-    "airingEpisodesOffset": null,
-    "accentColor": null,
-    "releaseTime": null,
-    "covers": {
-      "medium": "175443/medium.jpg",
-      "large": "175443/large.jpg",
-      "small": "175443/small.jpg"
-    }
-  },
   "179696": {
     "title": null,
     "airingEpisodesOffset": null,
@@ -358,100 +195,11 @@
       "small": "179696/small.jpg"
     }
   },
-  "180082": {
-    "title": "Chitose Is in the Ramune Bottle",
-    "airingEpisodesOffset": null,
-    "accentColor": null,
-    "releaseTime": null
-  },
   "181444": {
     "covers": {
       "medium": "181444/medium.jpg",
       "large": "181444/large.jpg",
       "small": "181444/small.jpg"
     }
-  },
-  "181641": {
-    "title": "Alya Sometimes Hides Her Feelings in Russian Season 2",
-    "airingEpisodesOffset": null,
-    "accentColor": null,
-    "releaseTime": null
-  },
-  "182255": {
-    "title": "Frieren: Beyond Journey\u2019s End Season 2",
-    "airingEpisodesOffset": null,
-    "accentColor": null,
-    "releaseTime": null
-  },
-  "182587": {
-    "title": "Oshi no Ko Season 3",
-    "airingEpisodesOffset": null,
-    "accentColor": null,
-    "releaseTime": null
-  },
-  "183385": {
-    "title": "This Monster Wants to Eat Me",
-    "airingEpisodesOffset": null,
-    "accentColor": null,
-    "releaseTime": null
-  },
-  "185407": {
-    "covers": {
-      "medium": "185407/medium.jpg",
-      "large": "185407/large.jpg",
-      "small": "185407/small.jpg"
-    }
-  },
-  "186822": {
-    "title": "The Guy She Was Interested in Wasn't a Guy at All",
-    "airingEpisodesOffset": null,
-    "accentColor": null,
-    "releaseTime": null
-  },
-  "187260": {
-    "title": "I Want to Love You Till Your Dying Day",
-    "airingEpisodesOffset": null,
-    "accentColor": null,
-    "releaseTime": null
-  },
-  "189046": {
-    "title": "Re:ZERO -Starting Life in Another World- Season 4",
-    "airingEpisodesOffset": null,
-    "accentColor": null,
-    "releaseTime": null
-  },
-  "189123": {
-    "title": "Blue Box Season 2",
-    "airingEpisodesOffset": null,
-    "accentColor": null,
-    "releaseTime": null,
-    "covers": {
-      "medium": "189123/medium.jpg",
-      "large": "189123/large.jpg",
-      "small": "189123/small.jpg"
-    }
-  },
-  "189796": {
-    "title": "Too Many Losing Heroines! Season 2",
-    "airingEpisodesOffset": null,
-    "accentColor": null,
-    "releaseTime": null,
-    "covers": {
-      "medium": "189796/medium.jpg",
-      "large": "189796/large.jpg",
-      "small": "189796/small.jpg"
-    }
-  },
-  "190704": {
-    "title": "Mistress Kanan is Devilishly Easy",
-    "airingEpisodesOffset": null,
-    "accentColor": null,
-    "releaseTime": null
-  },
-  "194393": {
-    "title": "I Want to End This Love Game",
-    "airingEpisodesOffset": null,
-    "accentColor": null,
-    "releaseTime": null
   }
 }
