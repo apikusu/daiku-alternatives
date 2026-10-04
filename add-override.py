@@ -87,7 +87,7 @@ def save_override(media_id, override_title):
     print(f"\nOverride saved to {filepath}")
 
 def get_mal_info(title, type_media):
-    base_url = "https://api.jikan.moe/v4/anime" if type_media == "ANIME" else "https://api.jikan.moe/v4/manga"
+    base_url = "https://api.tenrai.org/v1/anime" if type_media == "ANIME" else "https://api.tenrai.org/v1/manga"
     response = requests.get(f"{base_url}?q={title}&limit=1")
     
     if response.status_code == 200:

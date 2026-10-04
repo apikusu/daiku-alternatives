@@ -1,1 +1,0 @@
-2de volume cover from mangadex

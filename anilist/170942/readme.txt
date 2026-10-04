@@ -1,1 +1,0 @@
-2nd cover art of the anime

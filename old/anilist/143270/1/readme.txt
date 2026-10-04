@@ -1,1 +1,0 @@
-first key visual of the anime

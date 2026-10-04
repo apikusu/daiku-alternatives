@@ -1,1 +1,0 @@
-cover of the 16th volume, from mangadex

@@ -1,1 +1,0 @@
-teaser key visual of the anime

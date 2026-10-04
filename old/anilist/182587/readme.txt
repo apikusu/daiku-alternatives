@@ -1,1 +1,0 @@
-add 1st teaser cover art for season 3 as an archive

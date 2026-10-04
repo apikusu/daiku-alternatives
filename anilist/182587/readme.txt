@@ -1,1 +1,0 @@
-its writing didn't match the other seasons'
